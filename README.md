@@ -1,6 +1,6 @@
 # UX Wizard Spellbook
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/91850b15-3d0c-4a09-81f8-57dda1d3258c/deploy-status)](https://app.netlify.com/sites/priceless-stonebraker-26a436/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/91850b15-3d0c-4a09-81f8-57dda1d3258c/deploy-status)](https://app.netlify.com/sites/uxwizardswiki/deploys)
 
 ## Setup
 
