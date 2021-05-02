@@ -1,6 +1,6 @@
 ---
 title: Current Leadership Teams
-description: ''
+description: ""
 position: 1
 category: Quick Links
 ---
@@ -19,35 +19,34 @@ Yigit Onay
 
 Scroll down for more leadership teams! ⬇️ ⬇️ ⬇️
 
-*Asterisk to denote team leads
+_Asterisk to denote team leads
 Design Group 📣
-Design Group - * 
-
+Design Group - _
 
 Graphic Design Team 🎨
-Every other Monday, 6:15 pm 
-Seiko Igi*
+Every other Monday, 6:15 pm
+Seiko Igi\*
 Osas Oyara
-Jasper Lim 
+Jasper Lim
 
 Content Design Team 📰
 Every other Tuesday, 5:00pm
-Morgan Trueblood*
+Morgan Trueblood\*
 Chaela Cristobal
-Bi Nguyen 
+Bi Nguyen
 Kadeem Morrison
 
 Merch Design Team 👕
 Every other week
-Joanne Arboleda*
+Joanne Arboleda\*
 Seiko Igi
 Gabi Pangilinan
 Laura Williams
 Keri Fullwood
 
 Web Design Team 🌐
-No meetings currently 
-Javier Garcia*
+No meetings currently
+Javier Garcia\*
 Madison Brown
 
 Scroll down for more leadership teams! ⬇️ ⬇️ ⬇️
@@ -56,7 +55,7 @@ Production Group 🎥
 
 Podcast Team 🎙️
 Fridays, 5pm - goal: 20 podcasts
-Keri Fullwood*
+Keri Fullwood\*
 Chidinma Kalu
 Morgan Trueblood
 Sidney Rhoads
@@ -70,7 +69,7 @@ Kaisen Lin
 
 Limited Event Series
 
-Evergreen Events 
+Evergreen Events
 Co-work & Coffee ☕
 Event runs every Tuesday, 1-3pm
 Laura Williams
@@ -90,44 +89,37 @@ Laura Williams
 Keri Fullwood
 Sidney Rhoads
 
-	UXology 🧪
-	Kaisen Lin*
+    UXology 🧪
+    Kaisen Lin*
 
 UX Talks
-Seiko Igi*
+Seiko Igi\*
 Laura Williams
 Andre Lindo
 Chaela Cristobal
 
 Remote UX Challenge
 
-
-
-
-
-
-
-
 Scroll down for more leadership teams! ⬇️ ⬇️ ⬇️
 
 Operations Team 🔧
 Yigit Onay
 
-	Non-profit Exploration 🇺🇳 
-	Keri Fullwood 
+    Non-profit Exploration 🇺🇳
+    Keri Fullwood
 
 Finance Council 💰
-	Keri Fullwood*
+Keri Fullwood\*
 Kaisen Lin
 Laura Williams
 Yigit Onay
-Seiko Igi 
+Seiko Igi
 
-	Slack/Discord
-	Laura Williams
+    Slack/Discord
+    Laura Williams
 
-	Meetup
-	Keri Fullwood
+    Meetup
+    Keri Fullwood
 
 Bylaws ⚖️
 No lead appointed ← Laura/Yigit?

@@ -1,3 +1,5 @@
 /.nuxt
 /static
 /dist
+
+/node_modules

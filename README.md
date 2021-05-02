@@ -2,15 +2,17 @@
 
 ## Formatting
 
-We will be using Prettier to format document changes. 
+We will be using Prettier to format document changes.
 
 ## Code style guide
-1. root level `index.md` is where the wiki will open to. 
-1. `position` property indexes start at 1. 
-2. File names are in [kebab-case](https://en.wikipedia.org/wiki/Letter_case#Special_case_styles). `title` property are sentence case versions of that file name. 
-3. Put markdown files within their respective `category` directory.
-4. Category titles should be descriptive. Consider adding a new file to an existing category before creating a new one. 
-5. WIP: Where to put images.
+
+1. root level `index.md` is where the wiki will open to.
+1. `position` property indexes start at 1.
+1. File names are in [kebab-case](https://en.wikipedia.org/wiki/Letter_case#Special_case_styles). `title` property are sentence case versions of that file name.
+1. Put markdown files within their respective `category` directory.
+1. Category titles should be descriptive. Consider adding a new file to an existing category before creating a new one.
+1. WIP: Where to put images.
+
 ## Setup
 
 Install dependencies:
