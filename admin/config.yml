@@ -1,0 +1,19 @@
+backend:
+  name: github
+  repo: UX-Wizards/wizards-wiki
+
+media_folder: media_folder
+
+collections:
+  - label: "Posts"
+    name: post
+    folder: content/en
+    create: true
+    extension: .md
+    format: frontmatter
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Description", name: "description", widget: "string", required: false}
+      - {label: "Position", name: "position", widget: "number", required: true}
+      - {label: "Category", name: "category", widnet: "string", required: true}
+      - {label: "Body", name: "body", widget: "markdown", required: true}
