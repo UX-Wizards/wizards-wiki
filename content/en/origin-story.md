@@ -12,7 +12,7 @@ In the group's early months, we would meet in the lobby of the Santa Clara Hyatt
 
 Although we enjoy the in-person aspect of our community, we had always planned on doing more virtual events. Then in 2020 when the pandemic hit, we had to finally flip the switch to go completely online. We soon found ourselves with members all over the world, which means we were no longer just wizards of the South Bay. We hence became known simply as *"UX Wizards"*.
 
-We now host a bunch of events! We’ve hosted over 250 in-person and virtual ‘live’ events, which include co-working sessions, book clubs, mixers, portfolio reviews, design jams, and speaking events.
+We now host a bunch of events! We’ve hosted over 250 in-person and virtual ‘live’ events, which include co-working sessions, book clubs, mixers, portfolio reviews, design jams, and speaking events. All of these were run by our amazing volunteers!
 
 ### Who is Gandalf?
 
