@@ -62,6 +62,7 @@ category: Quick Links
 * Morgan Trueblood 
 * Sidney Rhoads 
 * Max Blum
+* Andre Lindo
 
 ## Events Group 🎉
 
@@ -81,7 +82,7 @@ Aka UX Hangout Chat, a weekly afternoon get-together to discuss things and poten
 * *Looking for back-up hosts*
 
 ### Yoga 🧘
-
+Start your mornings with vigor together!
 *Event runs Monday & Wednesday, 7:30am PT*
 
 * Chidinma Kalu 
@@ -93,13 +94,13 @@ Organizes regular discussion meetings for a book to read together.
 * *Looking for someone to run this event*
 
 #### Weekly UI
-
+Practice your UI skills and bulk up your portfolio with weekly prompts.
 Held in the #weekly-ui Slack channel
 
 * Elsa
 
 #### UX Mixer 🎉
-
+A fun get-together whether just mingling, chatting, trivia, or games.
 *Event runs monthly, check calendar*
 
 * Keri Fullwood *
@@ -107,12 +108,23 @@ Held in the #weekly-ui Slack channel
 * Sidney Rhoads
 
 ### UXology 🧪
-
+The study of UX.
 > Kaisen Lin *
 
 ### UX Talks
+Handles the organization and running of speaking events.
+* Seiko Igi * 
+* Laura Williams 
+* Andre Lindo 
+* Chaela Cristobal
 
-> Seiko Igi * — Laura Williams — Andre Lindo — Chaela Cristobal
+### New Hire Support Group
+A group for anyone that recently got a job and would like help navigating struggles.
+* Jess Chen *
+
+### Job Seeker Support Group
+A group for anyone searching for a job and would like to network and vent about related struggles.
+* Annie Bratko *
 
 ### Remote UX Challenge
 
