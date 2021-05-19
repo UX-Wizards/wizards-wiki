@@ -165,7 +165,7 @@ Manages MeetUp.com permissions
 * Kaisen Lin
 * Seiko Igi
 
-### Bylaws
+### Policies
 
 Works on writing content for the group's policies.
 
