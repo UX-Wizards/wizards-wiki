@@ -21,6 +21,7 @@ category: Quick Links
 #### Graphic Design Team 🎨
 
 *Meets every other Monday, 6:15 pm PT*
+
 * Seiko Igi * 
 * Osas Oyara 
 * Jasper Lim
@@ -28,6 +29,7 @@ category: Quick Links
 #### Content Design Team 📰
 
 *Meets every other Tuesday, 5:00pm PT*
+
 * Morgan Trueblood * 
 * Chaela Cristobal 
 * Bi Nguyen 
@@ -36,6 +38,7 @@ category: Quick Links
 #### Merch Design Team 👕
 
 *Meets every other week*
+
 * Joanne Arboleda * 
 * Seiko Igi 
 * Gabi Pangilinan 
@@ -45,6 +48,7 @@ category: Quick Links
 #### Web Design Team 🌐
 
 *Office Hours every Monday, 8pm PT*
+
 * Javier Garcia * 
 * Madison Brown
 
@@ -53,6 +57,7 @@ category: Quick Links
 #### Podcast Team 🎙️
 
 *Meets Fridays, 5pm PT — Goal: 20 podcasts*
+
 * Keri Fullwood * 
 * Chidinma Kalu 
 * Morgan Trueblood 
@@ -62,11 +67,13 @@ category: Quick Links
 ## Events Group 🎉
 
 #### Dragon’s Den 🐲
+
 Helps new hosts get set up with their event.
 
 * Kaisen Lin
 
 #### Co-work & Coffee ☕
+
 Aka UX Hangout Chat, a weekly afternoon get-together to discuss things and potentially attempt to get work done.
 *Event runs every Tuesday, 1-3pm PT*
 
@@ -77,16 +84,18 @@ Aka UX Hangout Chat, a weekly afternoon get-together to discuss things and poten
 #### Yoga 🧘
 
 *Event runs Monday & Wednesday, 7:30am PT*
+
 * Chidinma Kalu 
 
 #### Book Club 📚
+
 Organizes regular discussion meetings for a book to read together.
 
 * *Looking for someone to run this event*
 
 #### Weekly UI
 
-*Held in the #weekly-ui Slack channel*
+Held in the #weekly-ui Slack channel
 
 * Elsa
 
@@ -112,14 +121,14 @@ Organizes regular discussion meetings for a book to read together.
 
 ## Operations Group 🔧
 
-*Asterisk to denote team leads*
-
 #### Non-profit Exploration 🇺🇳
+
 Researches what it takes to become a non-profit organization
 
 * Keri Fullwood
 
 #### Finance Council 💰
+
 Handles finances and approves purchase requests. Also works with our Sponsors.
 
 * Keri Fullwood * 
@@ -129,6 +138,7 @@ Handles finances and approves purchase requests. Also works with our Sponsors.
 * Seiko Igi
 
 #### Slack/Discord
+
 Manages and moderates web communication tools for the group.
 
 * Laura Williams *
@@ -136,6 +146,7 @@ Manages and moderates web communication tools for the group.
 * *Needs more volunteers*
 
 #### MeetUp
+
 Manages MeetUp.com permissions
 
 * Keri Fullwood
@@ -145,7 +156,7 @@ Manages MeetUp.com permissions
 
 #### Bylaws ⚖️
 
-*Works on writing content for the group's policies.*
+Works on writing content for the group's policies.
 
 * Laura Williams 
 * Yigit Onay 
@@ -154,7 +165,7 @@ Manages MeetUp.com permissions
 
 #### Password Management 🔑
 
-*Manages permissions for account login credentials.*
+Manages permissions for account login credentials.
 
 * Seiko Igi 
 * Kaisen Lin
