@@ -2,7 +2,7 @@
 title: Welcome
 description: ""
 position: 0
-category: Onboarding Docs
+category: About
 ---
 Hello and welcome to UX Wizards!
 
