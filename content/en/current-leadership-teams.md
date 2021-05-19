@@ -2,7 +2,7 @@
 title: Current Teams
 description: Use this page as reference if you need to contact someone on a team.
 position: 1
-category: Quick Links
+category: Volunteer
 ---
 **Team Leads*
 
