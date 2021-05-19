@@ -4,7 +4,7 @@ description: ""
 position: 3
 category: Volunteer
 ---
-[Web Team Interest Survey](https://docs.google.com/forms/d/e/1FAIpQLScPK0behLBnZcAjF6RAgwr9U9cDRJcA9SrN8djmnq6TxxOO1g/viewform)
+[Web Team Interest Survey](https://docs.google.com/forms/d/e/1FAIpQLScPK0behLBnZcAjF6RAgwr9U9cDRJcA9SrN8djmnq6TxxOO1g/viewform) | 2 spots open
 *Lead: Javier Garcia*
 
 > **Web Design Team** hope to help make UX Wizards better by improving the groups web presence and documentation. This is a great team for people interested in learning web stuff or helping guide those that want to learn.
