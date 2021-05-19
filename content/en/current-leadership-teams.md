@@ -67,10 +67,11 @@ Helps new hosts get set up with their event.
 * Kaisen Lin
 
 #### Co-work & Coffee ☕
-
+Aka UX Hangout Chat, a weekly afternoon get-together to discuss things and potentially attempt to get work done.
 *Event runs every Tuesday, 1-3pm PT*
 
-* Laura Williams 
+* Laura Williams *
+* Keri Fullwood
 * *Looking for back-up hosts*
 
 #### Yoga 🧘
@@ -79,6 +80,7 @@ Helps new hosts get set up with their event.
 * Chidinma Kalu 
 
 #### Book Club 📚
+Organizes regular discussion meetings for a book to read together.
 
 * *Looking for someone to run this event*
 
