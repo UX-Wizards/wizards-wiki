@@ -6,7 +6,7 @@ category: About
 ---
 ## HELLO! Welcome to our Origin Story :)
 
-***UX Wizards*** was formed in 2018 as an in-person MeetUp Group based in Sunnyvale, California, then known as *"UX Wizards of the South Bay"*.
+**UX Wizards** was formed in 2018 as an in-person MeetUp Group based in Sunnyvale, California, then known as *"UX Wizards of the South Bay"*.
 
 In the group's early months, we would meet in the lobby of the Santa Clara Hyatt where we would sit in the square formation of their couches and talk as one big group. When we outgrew our original space, we started finding larger venues like TAP’T in Sunnyvale that allowed for more mingling.
 
