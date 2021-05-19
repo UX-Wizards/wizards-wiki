@@ -28,5 +28,5 @@ Past projects include: a digital cookbook with recipes from Wizards, vinyl UXW s
 
 ### Notes
 
-* For a quicker reply to your survey response, please send a DM to the Team Lead that you submitted one.
-* To check who is currently in the team, refer to our page on [Current Teams](https://uxwizardswiki.netlify.app/current-leadership-teams)
+<alert> For a quicker reply to your survey response, please send a DM to the Team Lead that you submitted one.</alert>
+<alert> To check who is currently in the team, refer to our page on [Current Teams](https://uxwizardswiki.netlify.app/current-leadership-teams)</alert>
