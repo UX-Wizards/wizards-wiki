@@ -13,7 +13,7 @@ category: Volunteer
 
 Past projects include: [UXW Design System](https://designsystem.uxwizards.org/#/introduction) and the Netlify Wiki you're looking at. ;)
 
-Be sure to check out our potential or [Current efforts](https://docs.google.com/document/d/1gQuElZPMwrIcFYKgeDSpVGZY4mj_BwhF_lzZnyl4oZw/edit#heading=h.av4ktixqmjyf) \[Google Doc]
+Be sure to check out our potential or [current efforts](https://docs.google.com/document/d/1gQuElZPMwrIcFYKgeDSpVGZY4mj_BwhF_lzZnyl4oZw/edit#heading=h.av4ktixqmjyf) [Google Doc]
 
 
 
