@@ -1,8 +1,8 @@
 ---
-title: Welcome to Leadership
+title: Get Started Volunteering
 description: ""
-position: 3
-category: Onboarding Docs
+position: 0
+category: Volunteer
 ---
 
 Hello and welcome to Leadership!
