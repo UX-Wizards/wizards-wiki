@@ -4,8 +4,9 @@ description: Use this page as reference if you need to contact someone on a team
 position: 1
 category: Quick Links
 ---
-## Executive Board ⚙️
+* *Team Leads*
 
+## Executive Board ⚙️
 *Meets bi-weekly, Wednesday 5pm PT*
 
 * Keri Fullwood
@@ -13,8 +14,6 @@ category: Quick Links
 * Seiko Igi
 * Kaisen Lin
 * Yigit Onay
-
-*Asterisk denotes Team Leads*
 
 ## Design Group 📣
 
