@@ -137,6 +137,9 @@ Manages and moderates web communication tools for the group.
 Manages MeetUp.com permissions
 
 * Keri Fullwood
+* Laura Williams
+* Kaisen Lin
+* Seiko Igi
 
 #### Bylaws ⚖️
 
