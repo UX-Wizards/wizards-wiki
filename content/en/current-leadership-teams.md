@@ -7,6 +7,7 @@ category: Volunteer
 **Team Leads*
 
 ## Executive Board ⚙️
+<alert> The executive board or e-board is the group of members that make over-arching decisions. Their goal is to guard the mission and direction, maintain oversight of the group's behavior, as well as ensure the group is equipped with the resources needed to fulfill its mission.</alert>
 *Meets bi-weekly, Wednesday 5pm PT*
 
 * Keri Fullwood
@@ -16,6 +17,8 @@ category: Volunteer
 * Yigit Onay
 
 ## Design Group 🎨
+<alert>
+The design group is the collection of teams that create graphics or other content that may be used publicly to represent UX Wizards.</alert>
 
 ### Graphic Design Team
 
@@ -52,6 +55,7 @@ category: Volunteer
 * Madison Brown
 
 ## Production Group 🎥
+<alert>Production includes projects that create content that may not be design-related or graphic in nature.</alert>
 
 ### Podcast Team
 
@@ -65,6 +69,7 @@ category: Volunteer
 * Andre Lindo
 
 ## Events Group 🎉
+<alert>Events are the backbone of our group. They may be one-offs or evergreen events, educational or just for fun, but they bring us together and we value that. Below are current events that are being run by our members.</alert>
 
 ### Dragon’s Den
 
@@ -131,6 +136,7 @@ A group for anyone searching for a job and would like to network and vent about 
 * *Looking for volunteers to organize next RUXC*
 
 ## Operations Group 🔧
+<alert>Operations and group logistics are handled by these teams.</alert>
 
 ### Non-profit Exploration
 
