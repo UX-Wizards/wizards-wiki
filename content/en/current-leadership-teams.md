@@ -17,7 +17,7 @@ category: Quick Links
 
 ## Design Group 📣
 
-#### Graphic Design Team 🎨
+### Graphic Design Team 🎨
 
 *Meets every other Monday, 6:15 pm PT*
 
@@ -25,7 +25,7 @@ category: Quick Links
 * Osas Oyara 
 * Jasper Lim
 
-#### Content Design Team 📰
+### Content Design Team 📰
 
 *Meets every other Tuesday, 5:00pm PT*
 
@@ -34,7 +34,7 @@ category: Quick Links
 * Bi Nguyen 
 * Kadeem Morrison
 
-#### Merch Design Team 👕
+### Merch Design Team 👕
 
 *Meets every other week*
 
@@ -44,7 +44,7 @@ category: Quick Links
 * Laura Williams 
 * Keri Fullwood
 
-#### Web Design Team 🌐
+### Web Design Team 🌐
 
 *Office Hours every Monday, 8pm PT*
 
@@ -53,7 +53,7 @@ category: Quick Links
 
 ## Production Group 🎥
 
-#### Podcast Team 🎙️
+### Podcast Team 🎙️
 
 *Meets Fridays, 5pm PT — Goal: 20 podcasts*
 
@@ -65,13 +65,13 @@ category: Quick Links
 
 ## Events Group 🎉
 
-#### Dragon’s Den 🐲
+### Dragon’s Den 🐲
 
 Helps new hosts get set up with their event.
 
 * Kaisen Lin
 
-#### Co-work & Coffee ☕
+### Co-work & Coffee ☕
 
 Aka UX Hangout Chat, a weekly afternoon get-together to discuss things and potentially attempt to get work done.
 *Event runs every Tuesday, 1-3pm PT*
@@ -80,7 +80,7 @@ Aka UX Hangout Chat, a weekly afternoon get-together to discuss things and poten
 * Keri Fullwood
 * *Looking for back-up hosts*
 
-#### Yoga 🧘
+### Yoga 🧘
 
 *Event runs Monday & Wednesday, 7:30am PT*
 
@@ -106,27 +106,27 @@ Held in the #weekly-ui Slack channel
 * Laura Williams
 * Sidney Rhoads
 
-#### UXology 🧪
+### UXology 🧪
 
 > Kaisen Lin *
 
-#### UX Talks
+### UX Talks
 
 > Seiko Igi * — Laura Williams — Andre Lindo — Chaela Cristobal
 
-#### Remote UX Challenge
+### Remote UX Challenge
 
 * *Looking for volunteers to organize next RUXC*
 
 ## Operations Group 🔧
 
-#### Non-profit Exploration 🇺🇳
+### Non-profit Exploration 🇺🇳
 
 Researches what it takes to become a non-profit organization
 
 * Keri Fullwood
 
-#### Finance Council 💰
+### Finance Council 💰
 
 Handles finances and approves purchase requests. Also works with our Sponsors.
 
@@ -136,7 +136,7 @@ Handles finances and approves purchase requests. Also works with our Sponsors.
 * Yigit Onay 
 * Seiko Igi
 
-#### Slack/Discord
+### Slack/Discord
 
 Manages and moderates web communication tools for the group.
 
@@ -144,7 +144,7 @@ Manages and moderates web communication tools for the group.
 * King Ehiogu
 * *Needs more volunteers*
 
-#### MeetUp
+### MeetUp
 
 Manages MeetUp.com permissions
 
@@ -153,7 +153,7 @@ Manages MeetUp.com permissions
 * Kaisen Lin
 * Seiko Igi
 
-#### Bylaws ⚖️
+### Bylaws ⚖️
 
 Works on writing content for the group's policies.
 
@@ -162,7 +162,7 @@ Works on writing content for the group's policies.
 * Keri Fullwood 
 * King Ehiogu
 
-#### Password Management 🔑
+### Password Management 🔑
 
 Manages permissions for account login credentials.
 
