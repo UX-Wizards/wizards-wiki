@@ -6,7 +6,7 @@ category: Quick Links
 ---
 **Team Leads*
 
-## Executive Board ⚙️
+## ⚙️ Executive Board
 *Meets bi-weekly, Wednesday 5pm PT*
 
 * Keri Fullwood
@@ -15,7 +15,7 @@ category: Quick Links
 * Kaisen Lin
 * Yigit Onay
 
-## Design Group 🎨
+## 🎨 Design Group
 
 ### Graphic Design Team
 
@@ -51,7 +51,7 @@ category: Quick Links
 * Javier Garcia * 
 * Madison Brown
 
-## Production Group 🎥
+## 🎥 Production Group
 
 ### Podcast Team
 
@@ -64,7 +64,7 @@ category: Quick Links
 * Max Blum
 * Andre Lindo
 
-## Events Group 🎉
+## 🎉 Events Group
 
 ### Dragon’s Den
 
@@ -130,7 +130,7 @@ A group for anyone searching for a job and would like to network and vent about 
 
 * *Looking for volunteers to organize next RUXC*
 
-## Operations Group 🔧
+## 🔧 Operations Group
 
 ### Non-profit Exploration
 
