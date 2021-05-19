@@ -10,7 +10,7 @@ category: Onboarding Docs
 
 In the group's early months, we would meet in the lobby of the Santa Clara Hyatt where we would sit in the square formation of their couches and talk as one big group. When we outgrew our original space, we started finding larger venues like TAP’T in Sunnyvale that allowed for more mingling.
 
-Although we enjoy the in-person aspect of our community, we had always planned on doing more virtual events. Then in 2020 when the pandemic hit, we had to finally flip the switch to go completely online. We soon found ourselves with members all over the world, which means we were no longer just wizards of the South Bay. We hence became known simply as "UX Wizards".
+Although we enjoy the in-person aspect of our community, we had always planned on doing more virtual events. Then in 2020 when the pandemic hit, we had to finally flip the switch to go completely online. We soon found ourselves with members all over the world, which means we were no longer just wizards of the South Bay. We hence became known simply as *"UX Wizards"*.
 
 We now host a bunch of events! We’ve hosted over 250 in-person and virtual ‘live’ events, which include co-working sessions, book clubs, mixers, portfolio reviews, design jams, and speaking events.
 
