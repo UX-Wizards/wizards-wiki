@@ -4,7 +4,7 @@ description: ""
 position: 3
 category: Volunteer
 ---
-## Openings
+## Team Openings
 
 ### Web Team
 
@@ -13,11 +13,8 @@ category: Volunteer
 
 **Web Design Team** hope to help make UX Wizards better by improving the group's web presence and documentation. This is a great team for people interested in learning web stuff or helping guide those that want to learn.
 
-> Past projects include: [UXW Design System](https://designsystem.uxwizards.org/#/introduction) and the Netlify Wiki you're looking at. ;)
->
-> Be sure to check out our potential or [current efforts](https://docs.google.com/document/d/1gQuElZPMwrIcFYKgeDSpVGZY4mj_BwhF_lzZnyl4oZw/edit#heading=h.av4ktixqmjyf) [Google Doc]
-
-
+> Past projects include: [UXW Design System](https://designsystem.uxwizards.org/#/introduction) and the Wizzy Wiki you're looking at. ;) \
+> Be sure to check out our potential or [current efforts](https://docs.google.com/document/d/1gQuElZPMwrIcFYKgeDSpVGZY4mj_BwhF_lzZnyl4oZw/edit#heading=h.av4ktixqmjyf) \[Google Doc]
 
 ### Merch Team
 
@@ -26,7 +23,7 @@ category: Volunteer
 
 **Merch Design Team** runs creative passion projects that create items or swag to offer Wizards. They are often art / design focused and can be held either exclusively for Merch members to work on, or held more like an event with a call-to-action for any Wizards that are interested in creating. This is a great team for people interested in creating pretty things~
 
-> Past projects include: a digital cookbook with recipes from Wizards, vinyl UXW stickers to be sold on Ko-Fi, and digital holiday cards.
+> Past projects include: a digital cookbook with recipes from Wizards, vinyl UXW stickers to be sold on [our Ko-Fi](http://www.ko-fi.com/uxwizards), and digital holiday cards.
 
 ## Notes
 
