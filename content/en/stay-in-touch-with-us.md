@@ -1,6 +1,6 @@
 ---
-title: Stay in touch with us
-description: "t"
+title: Stay Informed
+description: t
 position: 1
 category: Calendars
 ---
