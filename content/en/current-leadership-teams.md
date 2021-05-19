@@ -44,7 +44,7 @@ category: Volunteer
 * Laura Williams 
 * Keri Fullwood
 
-### Web Design Team
+### Web Team
 
 *Office Hours every Monday, 8pm PT*
 
