@@ -160,7 +160,7 @@ Manages and moderates web communication tools for the group.
 
 Manages MeetUp.com permissions
 
-* Keri Fullwood
+* Keri Fullwood *
 * Laura Williams
 * Kaisen Lin
 * Seiko Igi
