@@ -19,25 +19,25 @@ Yigit Onay
 
 *Asterisk to denote team leads*
 
-### Graphic Design Team 🎨
+#### Graphic Design Team 🎨
 
 > *Meets every other Monday, 6:15 pm PT*
 >
 > Seiko Igi * — Osas Oyara — Jasper Lim
 
-### Content Design Team 📰
+#### Content Design Team 📰
 
 > *Meets every other Tuesday, 5:00pm PT*
 >
 > Morgan Trueblood * — Chaela Cristobal — Bi Nguyen — Kadeem Morrison
 
-### Merch Design Team 👕
+#### Merch Design Team 👕
 
 > *Meets every other week*
 >
 > Joanne Arboleda * — Seiko Igi — Gabi Pangilinan — Laura Williams — Keri Fullwood
 
-### Web Design Team 🌐
+#### Web Design Team 🌐
 
 > *Office Hours every Monday, 8pm PT*
 >
@@ -49,7 +49,7 @@ Yigit Onay
 
 *Asterisk to denote team leads*
 
-### Podcast Team 🎙️
+#### Podcast Team 🎙️
 
 > *Meets Fridays, 5pm PT — Goal: 20 podcasts*
 >
@@ -61,47 +61,47 @@ Yigit Onay
 
 *Asterisk to denote team leads*
 
-### Dragon’s Den 🐲
+#### Dragon’s Den 🐲
 
 Kaisen Lin
 
-### Co-work & Coffee ☕
+#### Co-work & Coffee ☕
 
 > *Event runs every Tuesday, 1-3pm PT*
 >
 > Laura Williams 
 
-### Yoga 🧘
+#### Yoga 🧘
 
 > *Event runs Monday & Wednesday, 7:30am PT*
 >
 > Chidinma Kalu 
 
-### Book Club 📚
+#### Book Club 📚
 
 > *Looking for someone to run this event*
 
-### Weekly UI
+#### Weekly UI
 
 > *Held in the #weekly-ui Slack channel*
 >
 > Elsa
 
-### UX Mixer 🎉
+#### UX Mixer 🎉
 
 > *Event runs monthly, check calendar*
 >
 > Laura Williams — Keri Fullwood *  — Sidney Rhoads
 
-### UXology 🧪
+#### UXology 🧪
 
 > Kaisen Lin *
 
-### UX Talks
+#### UX Talks
 
 > Seiko Igi * — Laura Williams — Andre Lindo — Chaela Cristobal
 
-### Remote UX Challenge
+#### Remote UX Challenge
 
 > *Looking for volunteers to organize next RUXC*
 
@@ -111,26 +111,26 @@ Kaisen Lin
 
 *Asterisk to denote team leads*
 
-### Non-profit Exploration 🇺🇳
+#### Non-profit Exploration 🇺🇳
 
 > Keri Fullwood
 
-### Finance Council 💰
+#### Finance Council 💰
 
 > Keri Fullwood * — Kaisen Lin — Laura Williams — Yigit Onay — Seiko Igi
 
-### Slack/Discord
+#### Slack/Discord
 
 > Laura Williams
 
-### Meetup
+#### Meetup
 
 > Keri Fullwood
 
-### Bylaws ⚖️
+#### Bylaws ⚖️
 
 > Laura Williams — Yigit Onay — Keri Fullwood — King Ehiogu
 
-### Password Management 🔑
+#### Password Management 🔑
 
 > Seiko Igi — Kaisen Lin
