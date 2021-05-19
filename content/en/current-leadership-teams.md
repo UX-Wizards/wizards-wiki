@@ -4,7 +4,7 @@ description: Use this page as reference if you need to contact someone on a team
 position: 1
 category: Quick Links
 ---
-* *Team Leads*
+**Team Leads*
 
 ## Executive Board ⚙️
 *Meets bi-weekly, Wednesday 5pm PT*
