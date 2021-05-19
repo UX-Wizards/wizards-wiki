@@ -1,8 +1,8 @@
 ---
 title: Frequently Asked Questions
 description: ""
-position: 1
-category: Onboarding Docs
+position: 2
+category: About
 ---
 
 ## Hello and welcome to UX Wizards!
