@@ -16,6 +16,10 @@ We now host a bunch of events! We’ve hosted over 250 in-person and virtual ‘
 
 ### Who is Gandalf?
 
-Gandalf Winterwhisk is our cheerful (and made up) mascot. The wizard in the picture below is actually Merlin (from The Sword in the Stone) but helps explain the ‘light hearted, mystical wizard’ persona that we’ve crafted, and refer to as ‘Gandalf.’
+Gandalf Winterwhisk is our cheerful and made-up mascot. The last name “Winterwhisk” came from an online Wizard name generator and first drawn iterations of our mascot came from a fun little tutorial found when Googling, "How to draw a wizard"!
 
-Fun fact, his last name “Winterwhisk” came from a Wizard name generator online. Sometimes we’ll refer to “Gandalf’s Calendar” which can be a bit confusing, but this usually just means UX Wizards Calendar. UX Wizards is also sometimes abbreviated as “UXW” or “Wizards.” While our logo used to feature ‘Gandalf’ it has been simplified to just be his hat.
+![Old logo for UX Wizards of the South Bay, featuring a cartoon-drawn wizard](/media_folder/600_470786128.png "UXW")
+
+The wizard in the picture below is actually Merlin (from The Sword in the Stone) but helps illustrate the ‘light-hearted, mystical wizard’ persona that we’ve crafted, and refer to as ‘Gandalf.’
+
+![Merlin from Sword in the Stone, sporting colorful, patterned vacation wear](/media_folder/merlin-sword-in-the-stone.jpg "Merlin")
