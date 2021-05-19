@@ -14,81 +14,87 @@ category: Quick Links
 * Kaisen Lin
 * Yigit Onay
 
-## Design Group 📣
+*Asterisk denotes Team Leads*
 
-*Asterisk to denote team leads*
+## Design Group 📣
 
 #### Graphic Design Team 🎨
 
-> *Meets every other Monday, 6:15 pm PT*
->
-> Seiko Igi * — Osas Oyara — Jasper Lim
+*Meets every other Monday, 6:15 pm PT*
+* Seiko Igi * 
+* Osas Oyara 
+* Jasper Lim
 
 #### Content Design Team 📰
 
-> *Meets every other Tuesday, 5:00pm PT*
->
-> Morgan Trueblood * — Chaela Cristobal — Bi Nguyen — Kadeem Morrison
+*Meets every other Tuesday, 5:00pm PT*
+* Morgan Trueblood * 
+* Chaela Cristobal 
+* Bi Nguyen 
+* Kadeem Morrison
 
 #### Merch Design Team 👕
 
-> *Meets every other week*
->
-> Joanne Arboleda * — Seiko Igi — Gabi Pangilinan — Laura Williams — Keri Fullwood
+*Meets every other week*
+* Joanne Arboleda * 
+* Seiko Igi 
+* Gabi Pangilinan 
+* Laura Williams 
+* Keri Fullwood
 
 #### Web Design Team 🌐
 
-> *Office Hours every Monday, 8pm PT*
->
-> Javier Garcia * — Madison Brown
+*Office Hours every Monday, 8pm PT*
+* Javier Garcia * 
+* Madison Brown
 
 ## Production Group 🎥
 
-*Asterisk to denote team leads*
-
 #### Podcast Team 🎙️
 
-> *Meets Fridays, 5pm PT — Goal: 20 podcasts*
->
-> Keri Fullwood * — Chidinma Kalu — Morgan Trueblood — Sidney Rhoads — Max Blum
-
-<hr>
+*Meets Fridays, 5pm PT — Goal: 20 podcasts*
+* Keri Fullwood * 
+* Chidinma Kalu 
+* Morgan Trueblood 
+* Sidney Rhoads 
+* Max Blum
 
 ## Events Group 🎉
 
-*Asterisk to denote team leads*
-
 #### Dragon’s Den 🐲
+Helps new hosts get set up with their event.
 
-Kaisen Lin
+* Kaisen Lin
 
 #### Co-work & Coffee ☕
 
-> *Event runs every Tuesday, 1-3pm PT*
->
-> Laura Williams 
+*Event runs every Tuesday, 1-3pm PT*
+
+* Laura Williams 
+* *Looking for back-up hosts*
 
 #### Yoga 🧘
 
-> *Event runs Monday & Wednesday, 7:30am PT*
->
-> Chidinma Kalu 
+*Event runs Monday & Wednesday, 7:30am PT*
+* Chidinma Kalu 
 
 #### Book Club 📚
 
-> *Looking for someone to run this event*
+* *Looking for someone to run this event*
 
 #### Weekly UI
 
-> *Held in the #weekly-ui Slack channel*
->
-> Elsa
+*Held in the #weekly-ui Slack channel*
+
+* Elsa
 
 #### UX Mixer 🎉
 
-> *Event runs monthly, check calendar*
->
-> Laura Williams — Keri Fullwood *  — Sidney Rhoads
+*Event runs monthly, check calendar*
+
+* Keri Fullwood *
+* Laura Williams
+* Sidney Rhoads
 
 #### UXology 🧪
 
@@ -100,17 +106,19 @@ Kaisen Lin
 
 #### Remote UX Challenge
 
-> *Looking for volunteers to organize next RUXC*
+* *Looking for volunteers to organize next RUXC*
 
-## Operations Team 🔧
+## Operations Group 🔧
 
 *Asterisk to denote team leads*
 
 #### Non-profit Exploration 🇺🇳
+Researches what it takes to become a non-profit organization
 
-> Keri Fullwood
+* Keri Fullwood
 
 #### Finance Council 💰
+Handles finances and approves purchase requests. Also works with our Sponsors.
 
 * Keri Fullwood * 
 * Kaisen Lin 
@@ -121,7 +129,9 @@ Kaisen Lin
 #### Slack/Discord
 Manages and moderates web communication tools for the group.
 
-* Laura Williams
+* Laura Williams *
+* King Ehiogu
+* *Needs more volunteers*
 
 #### MeetUp
 Manages MeetUp.com permissions
