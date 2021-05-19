@@ -180,3 +180,7 @@ Manages permissions for account login credentials.
 
 * Seiko Igi 
 * Kaisen Lin
+
+<note>
+Last updated: May 19, 2021 by Laura W.
+</note>
