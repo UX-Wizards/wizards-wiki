@@ -1,8 +1,8 @@
 ---
-title: Bylaws
+title: Policies
 description: ""
-position: 1
-category: Quick Links
+position: 2
+category: About
 ---
 
 Wizard Council:
