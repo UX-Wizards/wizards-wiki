@@ -1,8 +1,8 @@
 ---
-title: Frequently Asked Questions
+title: FAQs
 description: ""
-position: 2
-category: About
+position: 1
+category: Stay Informed
 ---
 
 ## Hello and welcome to UX Wizards!
