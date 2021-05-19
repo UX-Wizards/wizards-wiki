@@ -5,13 +5,14 @@ position: 1
 category: Quick Links
 ---
 ## Executive Board ⚙️
+
 *Meets bi-weekly, Wednesday 5pm PT*
 
-Keri Fullwood
-Laura Williams
-Seiko Igi
-Kaisen Lin
-Yigit Onay
+* Keri Fullwood
+* Laura Williams
+* Seiko Igi
+* Kaisen Lin
+* Yigit Onay
 
 <hr>
 
