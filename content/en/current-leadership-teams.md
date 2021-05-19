@@ -102,7 +102,7 @@ Organizes regular discussion meetings for a book to read together.
 Practice your UI skills and bulk up your portfolio with weekly prompts.
 Held in the #weekly-ui Slack channel
 
-* Elsa
+* Elsa Amri
 
 ### UX Mixer
 A fun get-together whether just mingling, chatting, trivia, or games.
@@ -114,7 +114,7 @@ A fun get-together whether just mingling, chatting, trivia, or games.
 
 ### UXology
 The study of UX.
-> Kaisen Lin *
+* Kaisen Lin *
 
 ### UX Talks
 Handles the organization and running of speaking events.
