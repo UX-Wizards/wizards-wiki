@@ -6,14 +6,14 @@ category: Volunteer
 ---
 ## Web Team
 
-[Web Team Interest Survey](https://docs.google.com/forms/d/e/1FAIpQLScPK0behLBnZcAjF6RAgwr9U9cDRJcA9SrN8djmnq6TxxOO1g/viewform) | 2 spots open
-
+[Web Team Interest Survey](https://docs.google.com/forms/d/e/1FAIpQLScPK0behLBnZcAjF6RAgwr9U9cDRJcA9SrN8djmnq6TxxOO1g/viewform) | 2 spots open \
 *Lead: Javier Garcia*
 
 **Web Design Team** hope to help make UX Wizards better by improving the groups web presence and documentation. This is a great team for people interested in learning web stuff or helping guide those that want to learn.
 
 Past projects include: [UXW Design System](https://designsystem.uxwizards.org/#/introduction) and the Netlify Wiki you're looking at. ;)
-[Current efforts](https://docs.google.com/document/d/1gQuElZPMwrIcFYKgeDSpVGZY4mj_BwhF_lzZnyl4oZw/edit#heading=h.av4ktixqmjyf) \[Google Doc]
+
+Be sure to check out our potential or [Current efforts](https://docs.google.com/document/d/1gQuElZPMwrIcFYKgeDSpVGZY4mj_BwhF_lzZnyl4oZw/edit#heading=h.av4ktixqmjyf) \[Google Doc]
 
 
 
