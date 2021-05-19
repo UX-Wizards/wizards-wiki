@@ -1,5 +1,5 @@
 ---
-title: Get Started Volunteering
+title: Get Started
 description: ""
 position: 0
 category: Volunteer
