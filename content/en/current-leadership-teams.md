@@ -1,131 +1,137 @@
 ---
 title: Current Leadership Teams
-description: ""
+description: Use this page as reference if you need to contact someone on a team.
 position: 1
 category: Quick Links
 ---
+## Executive Board ⚙️
 
-Executive Board ⚙️
-Bi-weekly, Tuesday 8pm
+*Meets bi-weekly, Wednesday 5pm PT*
 
-Keri Fullwood
+> Keri Fullwood
+>
+> Laura Williams
+>
+> Seiko Igi
+>
+> Kaisen Lin
+>
+> Yigit Onay
 
-Laura Williams
-Seiko Igi
+<hr>
+
+## Design Group *📣*
+
+*Asterisk to denote team leads*
+
+### Graphic Design Team 🎨
+
+> *Meets every other Monday, 6:15 pm PT*
+>
+> Seiko Igi * — Osas Oyara — Jasper Lim
+
+### Content Design Team 📰
+
+> *Meets every other Tuesday, 5:00pm PT*
+>
+> Morgan Trueblood * — Chaela Cristobal — Bi Nguyen — Kadeem Morrison
+
+### Merch Design Team 👕
+
+> *Meets every other week*
+>
+> Joanne Arboleda * — Seiko Igi — Gabi Pangilinan — Laura Williams — Keri Fullwood
+
+### Web Design Team 🌐
+
+> *Office Hours every Monday, 8pm PT*
+>
+> Javier Garcia * — Madison Brown
+
+<hr>
+
+## Production Group 🎥
+
+*Asterisk to denote team leads*
+
+### Podcast Team 🎙️
+
+> *Meets Fridays, 5pm PT — Goal: 20 podcasts*
+>
+> Keri Fullwood * — Chidinma Kalu — Morgan Trueblood — Sidney Rhoads — Max Blum
+
+<hr>
+
+## Events Group 🎉
+
+*Asterisk to denote team leads*
+
+### Dragon’s Den 🐲
 
 Kaisen Lin
 
-Yigit Onay
+### Limited Event Series
 
-Scroll down for more leadership teams! ⬇️ ⬇️ ⬇️
+### Evergreen Event Series
 
-_Asterisk to denote team leads
-Design Group 📣
-Design Group - _
-
-Graphic Design Team 🎨
-Every other Monday, 6:15 pm
-Seiko Igi\*
-Osas Oyara
-Jasper Lim
-
-Content Design Team 📰
-Every other Tuesday, 5:00pm
-Morgan Trueblood\*
-Chaela Cristobal
-Bi Nguyen
-Kadeem Morrison
-
-Merch Design Team 👕
-Every other week
-Joanne Arboleda\*
-Seiko Igi
-Gabi Pangilinan
-Laura Williams
-Keri Fullwood
-
-Web Design Team 🌐
-No meetings currently
-Javier Garcia\*
-Madison Brown
-
-Scroll down for more leadership teams! ⬇️ ⬇️ ⬇️
-
-Production Group 🎥
-
-Podcast Team 🎙️
-Fridays, 5pm - goal: 20 podcasts
-Keri Fullwood\*
-Chidinma Kalu
-Morgan Trueblood
-Sidney Rhoads
-Max Blum
-
-Events Group 🎉
-Kaisen Lin
-
-Dragon’s Den 🐲
-Kaisen Lin
-
-Limited Event Series
-
-Evergreen Events
 Co-work & Coffee ☕
-Event runs every Tuesday, 1-3pm
-Laura Williams
-Keri Fullwood
-Jenna Chen
+
+> *Event runs every Tuesday, 1-3pm PT*
+>
+> Laura Williams 
 
 Yoga 🧘
-Chidinma Kalu
+
+> *Event runs Monday & Wednesday, 7:30am PT*
+>
+> Chidinma Kalu 
 
 Book Club 📚
 
-Daily UI
+> *Looking for someone to run this event*
+
+Weekly UI
+
+> *Held in the #weekly-ui Slack channel*
+>
+> Elsa
 
 UX Mixer 🎉
-Event runs monthly, check calendar
-Laura Williams
-Keri Fullwood
-Sidney Rhoads
 
-    UXology 🧪
-    Kaisen Lin*
+>*Event runs monthly, check calendar*
+>
+> Laura Williams — Keri Fullwood *  — Sidney Rhoads
+
+
+UXology 🧪
+> Kaisen Lin *
 
 UX Talks
-Seiko Igi\*
-Laura Williams
-Andre Lindo
-Chaela Cristobal
+> Seiko Igi * — Laura Williams — Andre Lindo — Chaela Cristobal
 
 Remote UX Challenge
+>*Looking for volunteers to organize next RUXC*
 
-Scroll down for more leadership teams! ⬇️ ⬇️ ⬇️
+<hr>
 
-Operations Team 🔧
-Yigit Onay
+## Operations Team 🔧
 
-    Non-profit Exploration 🇺🇳
-    Keri Fullwood
+*Asterisk to denote team leads*
 
-Finance Council 💰
-Keri Fullwood\*
-Kaisen Lin
-Laura Williams
-Yigit Onay
-Seiko Igi
+### Non-profit Exploration 🇺🇳
+> Keri Fullwood
 
-    Slack/Discord
-    Laura Williams
+### Finance Council 💰
+>Keri Fullwood * — Kaisen Lin — Laura Williams — Yigit Onay — Seiko Igi
 
-    Meetup
-    Keri Fullwood
+### Slack/Discord
+> Laura Williams
 
-Bylaws ⚖️
-No lead appointed ← Laura/Yigit?
-Keri Fullwood
-King Ehiogu
+### Meetup
+>Keri Fullwood
 
-Password Management 🔑
-Seiko Igi
-Kaisen Lin
+### Bylaws ⚖️
+> Laura Williams — Yigit Onay — Keri Fullwood — King Ehiogu
+
+### Password Management 🔑
+> Seiko Igi — Kaisen Lin
