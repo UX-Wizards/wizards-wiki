@@ -1,25 +1,21 @@
 ---
-title: Welcome to Wizards
+title: Welcome
 description: ""
 position: 0
 category: Onboarding Docs
 ---
 Hello and welcome to UX Wizards!
 
-test
+## What is UX Wizards? 🧙🏽
 
-What is UX Wizards? 🧙🏽
-We are a community of passionate, supportive learners and UX enthusiasts. We were founded April 30th, 2018.
+UX Wizards is a community of passionate, supportive learners and UX enthusiasts.
 
-\[ UX Wizards Origin Story ] \[ UX Wizards By-laws ] \[ OG Design System ]
-\[ Watch our welcome/flight safety video ]
+Together we host a variety of events each month that include casual hangouts, game nights, and learning events. You can find us active on the UX Wizards MeetUp group, our dedicated Slack, and our hangout Discord.
 
-What does UX Wizards do? 👩‍💻
-The community hosts several events each month that include casual hangouts, games, trivia and learning events. We are active in and maintain a UX Wizards \[ Slack ] and \[ Discord ]. Membership is free, we just ask that you participate and come in with the intention to make real friendships and connections, and to learn with us!
+Membership is completely free! We welcome all that want to participate and join with the intention of making real connections, a willingness to support others, and an interest in learning together.
 
-UX Wizards is run by members just like you, so please reach out to anyone on our eBoard if you have an idea for an event or thing you’d like to help make into reality. For a full list of Volunteers and teams, please take a look at our Wizard \[ Volunteers list ]
+## Can I invite friends to the UX Wizards Slack? 🎟️
 
-Can I invite friends to the UX Wizards Slack? 🎟️
 While the easy answer is “yes!”, we highly encourage everyone to attend at least one Zoom (or in-person) meeting before they join us in Slack. We ask this of members so that they may get an idea of what we are about and feel comfortable taking an active part in our supportive community. In short, it’s ok to forward the details, but please encourage your friend to join us for an event so that we may give them a proper welcome.
 
 How do I attend UX Wizard events? 🏟️
