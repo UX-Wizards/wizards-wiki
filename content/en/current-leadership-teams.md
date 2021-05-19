@@ -70,46 +70,42 @@ category: Quick Links
 
 Kaisen Lin
 
-### Limited Event Series
-
-### Evergreen Event Series
-
-Co-work & Coffee ☕
+### Co-work & Coffee ☕
 
 > *Event runs every Tuesday, 1-3pm PT*
 >
 > Laura Williams 
 
-Yoga 🧘
+### Yoga 🧘
 
 > *Event runs Monday & Wednesday, 7:30am PT*
 >
 > Chidinma Kalu 
 
-Book Club 📚
+### Book Club 📚
 
 > *Looking for someone to run this event*
 
-Weekly UI
+### Weekly UI
 
 > *Held in the #weekly-ui Slack channel*
 >
 > Elsa
 
-UX Mixer 🎉
+### UX Mixer 🎉
 
 >*Event runs monthly, check calendar*
 >
 > Laura Williams — Keri Fullwood *  — Sidney Rhoads
 
 
-UXology 🧪
+### UXology 🧪
 > Kaisen Lin *
 
-UX Talks
+### UX Talks
 > Seiko Igi * — Laura Williams — Andre Lindo — Chaela Cristobal
 
-Remote UX Challenge
+### Remote UX Challenge
 >*Looking for volunteers to organize next RUXC*
 
 <hr>
