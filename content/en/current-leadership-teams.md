@@ -14,9 +14,7 @@ category: Quick Links
 * Kaisen Lin
 * Yigit Onay
 
-<hr>
-
-## Design Group *📣*
+## Design Group 📣
 
 *Asterisk to denote team leads*
 
@@ -43,8 +41,6 @@ category: Quick Links
 > *Office Hours every Monday, 8pm PT*
 >
 > Javier Garcia * — Madison Brown
-
-<hr>
 
 ## Production Group 🎥
 
@@ -106,8 +102,6 @@ Kaisen Lin
 
 > *Looking for volunteers to organize next RUXC*
 
-<hr>
-
 ## Operations Team 🔧
 
 *Asterisk to denote team leads*
@@ -118,20 +112,34 @@ Kaisen Lin
 
 #### Finance Council 💰
 
-> Keri Fullwood * — Kaisen Lin — Laura Williams — Yigit Onay — Seiko Igi
+* Keri Fullwood * 
+* Kaisen Lin 
+* Laura Williams 
+* Yigit Onay 
+* Seiko Igi
 
 #### Slack/Discord
+Manages and moderates web communication tools for the group.
 
-> Laura Williams
+* Laura Williams
 
-#### Meetup
+#### MeetUp
+Manages MeetUp.com permissions
 
-> Keri Fullwood
+* Keri Fullwood
 
 #### Bylaws ⚖️
 
-> Laura Williams — Yigit Onay — Keri Fullwood — King Ehiogu
+*Works on writing content for the group's policies.*
+
+* Laura Williams 
+* Yigit Onay 
+* Keri Fullwood 
+* King Ehiogu
 
 #### Password Management 🔑
 
-> Seiko Igi — Kaisen Lin
+*Manages permissions for account login credentials.*
+
+* Seiko Igi 
+* Kaisen Lin
