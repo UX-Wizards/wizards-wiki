@@ -4,7 +4,7 @@ description: ""
 position: 4
 category: Onboarding Docs
 ---
-# HELLO! Welcome to our Origin Story :)
+## HELLO! Welcome to our Origin Story :)
 
 ***UX Wizards*** was formed in 2018 as an in-person MeetUp Group based in Sunnyvale, California, then known as "UX Wizards of the South Bay".
 
