@@ -1,8 +1,8 @@
 ---
 title: Origin Story
 description: ""
-position: 4
-category: Onboarding Docs
+position: 2
+category: About
 ---
 ## HELLO! Welcome to our Origin Story :)
 
