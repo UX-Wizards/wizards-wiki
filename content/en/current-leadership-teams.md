@@ -1,22 +1,17 @@
 ---
-title: Current Leadership Teams
+title: Current Teams
 description: Use this page as reference if you need to contact someone on a team.
 position: 1
 category: Quick Links
 ---
 ## Executive Board ⚙️
-
 *Meets bi-weekly, Wednesday 5pm PT*
 
-> Keri Fullwood
->
-> Laura Williams
->
-> Seiko Igi
->
-> Kaisen Lin
->
-> Yigit Onay
+Keri Fullwood
+Laura Williams
+Seiko Igi
+Kaisen Lin
+Yigit Onay
 
 <hr>
 
@@ -94,19 +89,21 @@ Kaisen Lin
 
 ### UX Mixer 🎉
 
->*Event runs monthly, check calendar*
+> *Event runs monthly, check calendar*
 >
 > Laura Williams — Keri Fullwood *  — Sidney Rhoads
 
-
 ### UXology 🧪
+
 > Kaisen Lin *
 
 ### UX Talks
+
 > Seiko Igi * — Laura Williams — Andre Lindo — Chaela Cristobal
 
 ### Remote UX Challenge
->*Looking for volunteers to organize next RUXC*
+
+> *Looking for volunteers to organize next RUXC*
 
 <hr>
 
@@ -115,19 +112,25 @@ Kaisen Lin
 *Asterisk to denote team leads*
 
 ### Non-profit Exploration 🇺🇳
+
 > Keri Fullwood
 
 ### Finance Council 💰
->Keri Fullwood * — Kaisen Lin — Laura Williams — Yigit Onay — Seiko Igi
+
+> Keri Fullwood * — Kaisen Lin — Laura Williams — Yigit Onay — Seiko Igi
 
 ### Slack/Discord
+
 > Laura Williams
 
 ### Meetup
->Keri Fullwood
+
+> Keri Fullwood
 
 ### Bylaws ⚖️
+
 > Laura Williams — Yigit Onay — Keri Fullwood — King Ehiogu
 
 ### Password Management 🔑
+
 > Seiko Igi — Kaisen Lin
