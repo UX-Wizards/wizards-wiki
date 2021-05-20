@@ -3,7 +3,7 @@ title: Volunteer Openings
 position: 1
 category: Volunteer
 ---
-Looking to help out UX Wizards in some way? If you're don't have an idea yourself, take a look at the listings below!
+Looking to help out UX Wizards in some way? If you're don't have something yet in mind, take a look at the listings below!
 
 ### Event: UX Chicken
 
