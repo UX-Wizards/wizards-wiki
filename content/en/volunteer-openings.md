@@ -10,7 +10,7 @@ Looking to help out UX Wizards in some way? If you're don't have an idea yoursel
 Looking for: Co-host and/or Planner \
 Contact: Keri, Laura, or Kaisen
 
-We'd like to do another UX Chicken - basically a lighthearted event where we literally get chicken and hang out together or virtually and maybe... watching a movie? chatting? Some kind of activity! We need some help picking out a movie or Zoom-friendly activity and figuring out logistics.
+We'd like to do another UX Chicken - basically a lighthearted event where we literally get chicken and hang out together in-person or virtually (up to you) and maybe... watching a movie? chatting? Some kind of activity! We need some help picking out a movie or Zoom-friendly activity and figuring out logistics.
 
 ### Event: UX Mixer Trivia
 
