@@ -52,17 +52,17 @@ We hear most of the work is setting it up but then during the event it's smooth 
 
 ## Next Steps
 
-#### Did you find an interesting team / project to join?**
+### Did you find an interesting team / project to join?
 
 Please reach out to the designated person listed.
 
-#### Do you have event / project ideas?
+### Do you have event / project ideas?
 
 **If it's a public event** or project that might be posted on MeetUp, please reach out to E-board (Keri, Laura, Seiko or Kaisen).
 
 **If it's an internal event** just for Wizards already in our Slack, you may feel free to ask if other Wizards would be interested by posting in the Slack #events channel. Don't feel like you need to do it alone either; you can always ask if anyone would be willing to help organize whatever you have in mind. We're all friendly here!
 
-#### Want to get involved but nothing here speaks to you?
+### Want to get involved but nothing here speaks to you?
 
 Ask yourself: **What is something I've wanted to do but would be more enjoyable with others?** 
 
