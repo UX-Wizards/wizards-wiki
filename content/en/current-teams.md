@@ -3,9 +3,10 @@ title: "Current Teams "
 position: 2
 category: Volunteer
 ---
-**Team Leads*
+\**Team Leads*
 
 ## Executive Board ⚙️
+
 <alert> The executive board or e-board is the group of members that make over-arching decisions. Their goal is to guard the mission and direction, maintain oversight of the group's behavior, as well as ensure the group is equipped with the resources needed to fulfill its mission. They're also here to answer any questions!</alert>
 *Meets bi-weekly, Wednesday 5pm PT*
 
@@ -16,10 +17,12 @@ category: Volunteer
 * Yigit Onay
 
 ## Design Group 🎨
+
 <alert>
 The design group is the collection of teams that create graphics or other content that may be used publicly to represent UX Wizards.</alert>
 
 ### Graphic Design Team
+
 Creates graphics, banners, and templates.
 *Meets every other Monday, 6:15 pm PT*
 
@@ -28,6 +31,7 @@ Creates graphics, banners, and templates.
 * Jasper Lim
 
 ### Content Design Team
+
 Creates and posts content on our social media.
 *Meets every other Tuesday, 5:00pm PT*
 
@@ -37,6 +41,7 @@ Creates and posts content on our social media.
 * Kadeem Morrison
 
 ### Merch Design Team
+
 Creates designs for swag.
 *Meets every other week*
 
@@ -47,6 +52,7 @@ Creates designs for swag.
 * Keri Fullwood
 
 ### Web Team
+
 Manages our websites or other web content.
 *Office Hours every Monday, 8pm PT*
 
@@ -54,9 +60,11 @@ Manages our websites or other web content.
 * Madison Brown
 
 ## Production Group 🎥
+
 <alert>Production includes projects that create content that may not be design-related or graphic in nature.</alert>
 
 ### Podcast Team
+
 Project team that has a goal of creating 20 podcasts.
 *Meets Fridays, 5pm PT*
 
@@ -68,6 +76,7 @@ Project team that has a goal of creating 20 podcasts.
 * Andre Lindo
 
 ## Events Group 🎉
+
 <alert>Events are the backbone of our group. They may be one-offs or evergreen events, educational or just for fun, but they bring us together and we value that. Below are current events that are being run by our members.</alert>
 
 ### Dragon’s Den
@@ -86,6 +95,7 @@ Aka UX Hangout Chat, a weekly afternoon get-together to discuss things and poten
 * *Looking for back-up hosts*
 
 ### Yoga
+
 Start your mornings with vigor together!
 *Event runs Monday & Wednesday, 7:30am PT*
 
@@ -98,12 +108,14 @@ Organizes regular discussion meetings for a book to read together.
 * *Looking for someone to run this event*
 
 ### Weekly UI
+
 Practice your UI skills and bulk up your portfolio with weekly prompts.
 Held in the #weekly-ui Slack channel
 
 * Elsa Amri
 
 ### UX Mixer
+
 A fun get-together whether just mingling, chatting, trivia, or games.
 *Event runs monthly, check calendar*
 
@@ -112,30 +124,42 @@ A fun get-together whether just mingling, chatting, trivia, or games.
 * Sidney Rhoads
 
 ### UXology
+
 The study of UX.
+
 * Kaisen Lin *
 
 ### UX Talks
+
 Handles the organization and running of speaking events.
+
 * Seiko Igi * 
 * Laura Williams 
 * Andre Lindo 
 * Chaela Cristobal
 
 ### Let's Art Together!
+
 An un-hosted event on the Discord where anyone can come to work on a creative project. *Event runs weekly on Sundays, 1pm PT.*
+
 * Laura *
 
 ### Let's FigJam!
+
 A collaborative exploration with Figma's FigJam.
+
 * Rae *
 
 ### New Hire Support
+
 A group for anyone that recently got a job and would like help navigating struggles.
+
 * Jess Chen *
 
 ### Job Seeker Support
+
 A group for anyone searching for a job and would like to network and vent about related struggles.
+
 * Annie Bratko *
 
 ### Remote UX Challenge
@@ -143,6 +167,7 @@ A group for anyone searching for a job and would like to network and vent about 
 * *Looking for volunteers to organize next RUXC*
 
 ## Operations Group 🔧
+
 <alert>Operations and group logistics are handled by these teams.</alert>
 
 ### Non-profit Exploration
@@ -195,5 +220,9 @@ Manages permissions for account login credentials.
 * Kaisen Lin
 
 <alert>
-Page last updated: May 19, 2021 by Laura W.
+See our list of [retired teams and projects](https://docs.google.com/spreadsheets/d/1Nlo4dBTeWcnb-L81X8BdXUE1BhqcXoFNCeAwLY0HMAY/edit?usp=sharing) \[Google Sheet].
+</alert>
+
+<alert>
+Page last updated: May 19, 2021 by Laura W. 
 </alert>
