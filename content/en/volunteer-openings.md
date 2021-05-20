@@ -48,7 +48,7 @@ We’d like to have a designer on board to help us create some original art for 
 
 The Remote UX Challenge (RUXC) is a virtual Design Jam / Hackathon and one of our most popular and high-impact events. We are open to however you want to run it - in the past it has been done as a week-long challenge or over the course of a weekend. We will help you form your organizing team and can let you know what has been done previously. 
 
-We hear most of the work is setting it up but then during the event it's smooth sailing for the organizers (less so for the participants 😉), and then you can say you've run your own hackathon! We should also be able to set you up with Adobe prizes (based on sponsor approval).
+We hear most of the work is setting it up but then during the event it's smooth sailing for the organizers (less so for the participants 😉), and then you can say you've run your own hackathon! We should also be able to set you up with Adobe prizes (contingent on sponsor approval).
 
 ## Next Steps
 
