@@ -21,7 +21,7 @@ category: Volunteer
 The design group is the collection of teams that create graphics or other content that may be used publicly to represent UX Wizards.</alert>
 
 ### Graphic Design Team
-
+Creates graphics, banners, and templates.
 *Meets every other Monday, 6:15 pm PT*
 
 * Seiko Igi * 
@@ -29,7 +29,7 @@ The design group is the collection of teams that create graphics or other conten
 * Jasper Lim
 
 ### Content Design Team
-
+Creates and posts content on our social media.
 *Meets every other Tuesday, 5:00pm PT*
 
 * Morgan Trueblood * 
@@ -38,7 +38,7 @@ The design group is the collection of teams that create graphics or other conten
 * Kadeem Morrison
 
 ### Merch Design Team
-
+Creates designs for swag.
 *Meets every other week*
 
 * Joanne Arboleda * 
@@ -48,7 +48,7 @@ The design group is the collection of teams that create graphics or other conten
 * Keri Fullwood
 
 ### Web Team
-
+Manages our websites or other web content.
 *Office Hours every Monday, 8pm PT*
 
 * Javier Garcia * 
@@ -58,8 +58,8 @@ The design group is the collection of teams that create graphics or other conten
 <alert>Production includes projects that create content that may not be design-related or graphic in nature.</alert>
 
 ### Podcast Team
-
-*Meets Fridays, 5pm PT — Goal: 20 podcasts*
+Project team that has a goal of creating 20 podcasts.
+*Meets Fridays, 5pm PT*
 
 * Keri Fullwood * 
 * Chidinma Kalu 
@@ -188,5 +188,5 @@ Manages permissions for account login credentials.
 * Kaisen Lin
 
 <alert>
-Last updated: May 19, 2021 by Laura W.
+Page last updated: May 19, 2021 by Laura W.
 </alert>
