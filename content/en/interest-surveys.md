@@ -8,6 +8,10 @@ category: Volunteer
 
 Below are postings from current teams that are have space for more volunteers! 
 
+With our core teams, we ask that you try to help out for at least 3 months due to the time it takes for us to handle account permissions and access. Merely a guideline and not a hard rule, we are totally okay if things come up or you just need a break! We check in at the end of every quarter to see if you'd like to continue or try something new.
+
+The time commitment for teams varies. You can likely expect to have a meeting with your team at least every other week, if not more, depending on the team or project.
+
 ### Web Team
 
 **[Web Team Interest Survey](https://docs.google.com/forms/d/e/1FAIpQLScPK0behLBnZcAjF6RAgwr9U9cDRJcA9SrN8djmnq6TxxOO1g/viewform)** | 2 spots open \
