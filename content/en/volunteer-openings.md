@@ -60,7 +60,7 @@ Please reach out to the designated person listed.
 
 **If it's a public event** or project that might be posted on MeetUp, please reach out to E-board (Keri, Laura, Seiko or Kaisen).
 
-**If it's an internal event** just for Wizards already in our Slack, you may feel free to ask if other Wizards would be interested by posting in the Slack #events channel. Don't feel like you need to do it alone either; you can always ask if anyone would be willing to help organize whatever you have in mind. We're all friendly here!
+**If it's an internal event** just for Wizards already in our Slack then just let us know what you need! You can also ask in the Slack #events channel if other Wizards would be interested. Don't feel like you need to do it alone either; you can always ask if anyone would be willing to help organize whatever you have in mind. We're all friendly here!
 
 ### Want to get involved but nothing here speaks to you?
 
