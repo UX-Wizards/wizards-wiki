@@ -7,7 +7,7 @@ category: Volunteer
 **Team Leads*
 
 ## Executive Board ⚙️
-<alert> The executive board or e-board is the group of members that make over-arching decisions. Their goal is to guard the mission and direction, maintain oversight of the group's behavior, as well as ensure the group is equipped with the resources needed to fulfill its mission.</alert>
+<alert> The executive board or e-board is the group of members that make over-arching decisions. Their goal is to guard the mission and direction, maintain oversight of the group's behavior, as well as ensure the group is equipped with the resources needed to fulfill its mission. They're also here to answer any questions!</alert>
 *Meets bi-weekly, Wednesday 5pm PT*
 
 * Keri Fullwood
