@@ -225,5 +225,5 @@ Manages permissions for account login credentials.
 See our list of [retired teams and projects](https://docs.google.com/spreadsheets/d/1Nlo4dBTeWcnb-L81X8BdXUE1BhqcXoFNCeAwLY0HMAY/edit?usp=sharing) \[Google Sheet].
 </alert>
 <alert>
-\*\*Page last updated:\*\* May 19, 2021 by Laura W. 
+**Page last updated:** May 19, 2021 by Laura W. 
 </alert>
