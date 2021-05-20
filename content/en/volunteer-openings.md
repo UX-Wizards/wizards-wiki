@@ -18,7 +18,7 @@ We'd like to do another UX Chicken - basically a lighthearted event where we lit
 **Looking for:** Trivia Question Maker, Presentation Slides Maker, and/or 2 Co-Hosts \
 **Contact:** Keri Fullwood
 
-Our next mixer is a trivia night and we need help coming up with 12 questions / answers and co-hosts for during the event to help shuffle people in and out of Breakout Rooms.
+Our next mixer is a trivia night and we need help coming up with 12 questions / answers and co-hosts for during the event to help shuffle people in and out of Breakout Rooms. If you just want to help with question or slide making that's totally fine!
 
 ### Admin: Slack Emote Adding
 
