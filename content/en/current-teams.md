@@ -224,5 +224,5 @@ See our list of [retired teams and projects](https://docs.google.com/spreadsheet
 </alert> 
 
 <alert>
-Page last updated: May 19, 2021 by Laura W. 
+**Page last updated:** May 19, 2021 by Laura W. 
 </alert>
