@@ -6,6 +6,8 @@ category: Volunteer
 ---
 ## Team Openings
 
+Below are postings from current teams that are have space for more volunteers! 
+
 ### Web Team
 
 **[Web Team Interest Survey](https://docs.google.com/forms/d/e/1FAIpQLScPK0behLBnZcAjF6RAgwr9U9cDRJcA9SrN8djmnq6TxxOO1g/viewform)** | 2 spots open \
