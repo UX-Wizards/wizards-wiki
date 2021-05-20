@@ -123,6 +123,14 @@ Handles the organization and running of speaking events.
 * Andre Lindo 
 * Chaela Cristobal
 
+### Let's Art Together!
+An un-hosted event on the Discord where anyone can come to work on a creative project. *Event runs weekly on Sundays, 1pm PT.*
+* Laura *
+
+### Let's FigJam!
+A collaborative exploration with Figma's FigJam.
+* Rae *
+
 ### New Hire Support
 A group for anyone that recently got a job and would like help navigating struggles.
 * Jess Chen *
