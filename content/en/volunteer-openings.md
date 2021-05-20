@@ -67,5 +67,3 @@ Please reach out to the designated person listed.
 Ask yourself: **What is something I've wanted to do but would be more enjoyable with others?** 
 
 For example, maybe you need help with interview practice and are interested in gathering others to join you. Or maybe you've always wanted to read a book but need the accountability of a book club. Maybe you just want to learn from others about their favorite UX techniques and would like to plan a themed discussion. If you want to do it, I'm sure someone else does too. Just let us know!
-
-For more ideas, check our [list of past and/retired events](https://docs.google.com/spreadsheets/d/1Nlo4dBTeWcnb-L81X8BdXUE1BhqcXoFNCeAwLY0HMAY/edit?usp=sharing) \[Google Sheet].
