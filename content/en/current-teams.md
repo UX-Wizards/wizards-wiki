@@ -220,7 +220,7 @@ Manages permissions for account login credentials.
 * Kaisen Lin
 
 <alert>
-See our list of [retired teams and projects](https://docs.google.com/spreadsheets/d/1Nlo4dBTeWcnb-L81X8BdXUE1BhqcXoFNCeAwLY0HMAY/edit?usp=sharing) \[Google Sheet].
+See our list of [retired teams and projects](https://docs.google.com/spreadsheets/d/1Nlo4dBTeWcnb-L81X8BdXUE1BhqcXoFNCeAwLY0HMAY/edit?usp=sharing) [Google Sheet].
 </alert> 
 
 <alert>
