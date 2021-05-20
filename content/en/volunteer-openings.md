@@ -52,11 +52,14 @@ We hear most of the work is setting it up but then during the event it's smooth 
 
 ## Next Steps
 
-**Did you find an interesting team / project to join?** \
+**Did you find an interesting team / project to join?**
+
 👉🏼 Reach out to the designated person listed
 
-**Do you have event / project ideas?** \
+**Do you have event / project ideas?**
+
 👉🏼 Reach out to E-board (Keri, Laura, Seiko or Kaisen)
 
-**Want to get involved but nothing here speaks to you?** \
+**Want to get involved but nothing here speaks to you?**
+
 👉🏼 Ask yourself: **What is something I've wanted to do but would be more enjoyable with others?** For example, maybe you need help with interview practice and are interested in gathering others to join you. Or maybe you've always wanted to read a book but need the accountability of a book club. Maybe you just want to learn from others about their favorite UX techniques and would like to plan a themed discussion. If you want to do it, I'm sure someone else does too. Just let us know!
