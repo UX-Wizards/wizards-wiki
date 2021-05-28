@@ -92,7 +92,12 @@ Yes, please feel free to ask people if they'd like to help out! You can always p
 ### Can I invite my friends to an event?
 If it is a public MeetUp event: Yes, everyone is welcome to join and take part in our events, even if they don't do UX.
 
-If it is a Slack-only event: Please ask the host before inviting others.
+If it is a Slack-only event: Please ask the host before inviting others. 
 
-## How do I know if an event is public (MeetUp or other) or private (Slack-only)?
+### Why are there public events and private events?
+Event size is subject to the host's preferences.
+
+Reasons they may want it Slack-only: If they want to keep the attendees small, maybe they are nervous about their first time hosting, if they just want to see familiar faces, if they want to keep the event more intimate.
+
+### How do I know if an event is public (MeetUp or other) or private (Slack-only)?
 The easiest way to check would be to see if our MeetUp account has the event listed online. You may also ask the host directly.
