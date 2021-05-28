@@ -69,8 +69,19 @@ We don't mind; most of our early events were last minute plans. We all gotta sta
 ### What if I have to cancel my event?
 Totally okay! You do you. 😎 We just ask you let people know and follow up - be sure to cancel the event in the calendar/MeetUp if applicable and announce it in the #events channel.
 
+## What options should I consider when planning my event?
+
+
 ### Can I announce my event in the Slack?
-We recommend it! 
+We recommend it! It's good to tell people in the #events channel
+
+### Can I promote my UXW event online?
+Yes! It's your event so it is up to you. If it's a public event (may be posted on MeetUp)then we can also have our Content Design Team post it on our UXW socials if given enough notice. [View our advertising request form]
+
+### Can I promote another UXW event online?
+If it is a public MeetUp event: Yes, everyone is welcome to join and take part in our events, even if they don't do UX.
+
+If it is a Slack-only event: Please ask the host if they are okay with promoting it outside of the Slack.
 
 ### Can I use UXW's Zoom for my event?
 Anyone can use our Zoom for UXW events, subject to scheduling. Events already in the UX Leadership calendar take precedence and it is first-come first-served. We ask that you do not use the group's Zoom for personal meetings.
@@ -79,4 +90,9 @@ Anyone can use our Zoom for UXW events, subject to scheduling. Events already in
 Yes, please feel free to ask people if they'd like to help out! You can always post in the Slack channel #events or #volunteer.
 
 ### Can I invite my friends to an event?
-Yes, everyone is welcome to join and take part in our events, even if they don't do UX.
+If it is a public MeetUp event: Yes, everyone is welcome to join and take part in our events, even if they don't do UX.
+
+If it is a Slack-only event: Please ask the host before inviting others.
+
+## How do I know if an event is public (MeetUp or other) or private (Slack-only)?
+The easiest way to check would be to see if our MeetUp account has the event listed online. You may also ask the host directly.
