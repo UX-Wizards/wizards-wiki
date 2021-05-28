@@ -55,3 +55,28 @@ If you are interested in joining one of our teams, keep an eye out for vacancies
 We also encourage members to start their own initiatives. Let E-board know so we may be able to help you logistically (e.g. setup Zoom, Meetup, etc), as well as help with finding team members and piloting the event.
 
 Our Merch Team does have an Merch Team Interest Form, which you are welcome to fill out at any time!
+
+## Event/Project Questions
+
+When it comes to 
+
+### Can I host an event? 
+Yes, please do! We want everyone to get out of this group what they want out of it and encourage everyone to treat it as their own personal group of UX friends.
+
+### What if my event is last minute?
+We don't mind; most of our early events were last minute plans. We all gotta start somewhere!
+
+### What if I have to cancel my event?
+Totally okay! You do you. 😎 We just ask you let people know and follow up - be sure to cancel the event in the calendar/MeetUp if applicable and announce it in the #events channel.
+
+### Can I announce my event in the Slack?
+We recommend it! 
+
+### Can I use UXW's Zoom for my event?
+Anyone can use our Zoom for UXW events, subject to scheduling. Events already in the UX Leadership calendar take precedence and it is first-come first-served. We ask that you do not use the group's Zoom for personal meetings.
+
+### Can I form a team for my event?
+Yes, please feel free to ask people if they'd like to help out! You can always post in the Slack channel #events or #volunteer.
+
+### Can I invite my friends to an event?
+Yes, everyone is welcome to join and take part in our events, even if they don't do UX.
