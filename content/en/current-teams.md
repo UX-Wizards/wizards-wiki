@@ -14,7 +14,6 @@ category: Volunteer
 * Laura Williams
 * Seiko Igi
 * Kaisen Lin
-* Yigit Onay
 
 ## Design Group 🎨
 
@@ -28,17 +27,14 @@ Creates graphics, banners, and templates.
 
 * Seiko Igi * 
 * Osas Oyara 
-* Jasper Lim
 
 ### Content Design Team
 
 Creates and posts content on our social media.
 *Meets every other Tuesday, 5:00pm PT*
 
-* Morgan Trueblood * 
-* Chaela Cristobal 
+* Kadeem Morrison *
 * Bi Nguyen 
-* Kadeem Morrison
 
 ### Merch Design Team
 
@@ -88,11 +84,7 @@ Helps new hosts get set up with their event.
 ### Co-work & Coffee
 
 Aka UX Hangout Chat, a weekly afternoon get-together to discuss things and potentially attempt to get work done.
-*Event runs every Tuesday, 1-3pm PT*
-
-* Laura Williams *
-* Keri Fullwood
-* *Looking for back-up hosts*
+*This is an un-hosted event, but event runs every Tuesday, 1-3pm PT*
 
 ### Yoga
 
@@ -123,11 +115,12 @@ A fun get-together whether just mingling, chatting, trivia, or games.
 * Laura Williams
 * Sidney Rhoads
 
-### UXology
+### Design Systems Roundtable
 
-The study of UX.
+Design Systems Deep Dive
 
 * Kaisen Lin *
+* Keri Fullwood
 
 ### UX Talks
 
@@ -222,8 +215,8 @@ Manages permissions for account login credentials.
 #### Notes
 
 <alert>
-See our list of [retired teams and projects](https://docs.google.com/spreadsheets/d/1Nlo4dBTeWcnb-L81X8BdXUE1BhqcXoFNCeAwLY0HMAY/edit?usp=sharing) \[Google Sheet].
+See our list of \[retired teams and projects](https://docs.google.com/spreadsheets/d/1Nlo4dBTeWcnb-L81X8BdXUE1BhqcXoFNCeAwLY0HMAY/edit?usp=sharing) \\[Google Sheet].
 </alert>
 <alert>
-**Page last updated:** May 19, 2021 by Laura W. 
+\*\*Page last updated:\*\* Jul 22, 2021 by Keri F.
 </alert>
