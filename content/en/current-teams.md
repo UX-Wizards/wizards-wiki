@@ -7,8 +7,8 @@ category: Volunteer
 
 ## Executive Board ⚙️
 
-<alert> The executive board or e-board is the group of members that make over-arching decisions. Their goal is to guard the mission and direction, maintain oversight of the group's behavior, as well as ensure the group is equipped with the resources needed to fulfill its mission. They're also here to answer any questions!</alert>
-*Meets bi-weekly, Wednesday 5pm PT*
+<alert> The executive board or e-board is the group of members that help make over-arching decisions. E-board's goal is to guard the mission and direction, and ensure the group is equipped with the resources needed to fulfill its mission. They're also here to answer any questions!</alert>
+*Meets bi-weekly, evenings*
 
 * Keri Fullwood
 * Laura Williams
@@ -55,7 +55,7 @@ Manages our websites or other web content.
 * Javier Garcia * 
 * Madison Brown
 
-## Production Group 🎥
+## Production 🎥
 
 <alert>Production includes projects that create content that may not be design-related or graphic in nature.</alert>
 
@@ -68,7 +68,6 @@ Project team that has a goal of creating 20 podcasts.
 * Chidinma Kalu 
 * Morgan Trueblood 
 * Sidney Rhoads 
-* Max Blum
 * Andre Lindo
 
 ## Events Group 🎉
@@ -215,8 +214,7 @@ Manages permissions for account login credentials.
 #### Notes
 
 <alert>
-See our list of \[retired teams and projects](https://docs.google.com/spreadsheets/d/1Nlo4dBTeWcnb-L81X8BdXUE1BhqcXoFNCeAwLY0HMAY/edit?usp=sharing) \\[Google Sheet].
+See our list of \\[retired teams and projects](https://docs.google.com/spreadsheets/d/1Nlo4dBTeWcnb-L81X8BdXUE1BhqcXoFNCeAwLY0HMAY/edit?usp=sharing) \\\[Google Sheet].
 </alert>
-<alert>
-\*\*Page last updated:\*\* Jul 22, 2021 by Keri F.
-</alert>
+\
+Last updated Jul 22, 2021 by Keri F.
