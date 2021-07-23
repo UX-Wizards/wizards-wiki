@@ -1,5 +1,5 @@
 ---
-title: Get Started - Volunteers
+title: Get Started as a Volunteer
 position: 0
 category: Volunteer
 ---
