@@ -11,7 +11,7 @@ We’re thrilled that you’re interested in doing more with us and are excited 
 **We are all Volunteers**\
 The first rule to keep in mind is that everyone, including yourself, is a volunteer. As such, we ask that you only take on that which aligns with your personal goals and at a level that is sustainable.
 
-In the case you ever feel overwhelmed or burned out, please reach out to an E-Board member for support. If you ever need to take a step back at any time, for a short period of time or a long time please let us know.
+In the case you ever feel overwhelmed or burned out, please reach out to an E-Board Wizard for support. If you ever need to take a step back at any time, for a short period of time or a long time please let us know.
 
 **Be Selfish and Selfless**\
 Try and find a project or team that has both a selfish aspect and a selfless aspect. That is, find a project that aligns with your personal goals but that would also benefit the larger group.
@@ -22,7 +22,7 @@ This is the Volunteer Onboarding Guide Seiko Igi
 All Wizards are welcome to start a new project/event or they may join a current one if there is space.
 
 **Join an existing event!**\
-Any activity you see us doing was at one point the brainchild of a member just like you! Take advantage of this amazing community and do the things you want to accomplish. Start your own cowork session, join a team to organize a UX talk, form a group to study relevant topics - the opportunities are endless.
+Any activity you see us doing was at one point the brainchild of a Wizard just like you! Take advantage of this amazing community and do the things you want to accomplish. Start your own cowork session, join a team to organize a UX talk, form a group to study relevant topics - the opportunities are endless.
 
 <Here is a list of current project initiatives Wizards are doing. >
 <Here is a list of ideas Wizards have asked for but no one is currently spearheading>
@@ -31,7 +31,7 @@ Any activity you see us doing was at one point the brainchild of a member just l
 Have an idea you’ve been dreaming up? Let us know and we’ll help you get started with it!
 
 **Do you have an idea for what you’d like to do?**\
-If yes, then great! If not, take a look at the <list of ideas> Wizards have wanted to have or be a part of but are awaiting a fellow member to take the reins.
+If yes, then great! If not, take a look at the <list of ideas> Wizards have wanted to have or be a part of but are awaiting a fellow Wizard to take the reins.
 
 **Choosing a Project Leader**\
 A project leader is just a person that has the desire to “make things happen”! Anyone can do it; you do not need to be an expert or have experience. We are all about learning through doing and gaining experience by just trying our best.
@@ -95,10 +95,10 @@ If you’d like to join a team please contact either a member of that team (idea
 If you’re starting a new team, please contact a member of our Executive Board with a proposal of what you want to do, and they can guide you on how to do it. If you need ideas refer to this GOOGLE FORM SPREADSHEET
 
 **How do I ‘off board’ when it’s time?**\
-If you ever need to duck out for whatever reason, please do not feel guilty at all! UXW is an ever-evolving group that is there to support the goals of our Wizards. Feel free to let either your team or any member of the executive board “e-board” know and we will take care of it!
+If you ever need to duck out for whatever reason, please do not feel guilty at all! UXW is an ever-evolving group that is there to support the goals of our Wizards. Feel free to let either your team or any Wizard on the executive board “e-board” know and we will take care of it!
 
 **How do I plan an event?**
-If you’re interested in hosting an event, please feel free to reach out to a member of eboard. We’ll help get you set up with Zoom, meetup logins and anything you might need.
+If you’re interested in hosting an event, please feel free to reach out to a Wizard on eboard. We’ll help get you set up with Zoom, meetup logins and anything you might need.
 
 **Where can I find the UXW Bylaws?**\
 You can access our [ bylaws doc here ]
