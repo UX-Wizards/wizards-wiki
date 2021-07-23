@@ -7,7 +7,7 @@ category: Volunteer
 
 ## Executive Board ⚙️
 
-<alert> The executive board or e-board is the group of members that help make over-arching decisions. E-board's goal is to guard the mission and direction, and ensure the group is equipped with the resources needed to fulfill its mission. They're also here to answer any questions!</alert>
+<alert> The executive board or e-board is the group of Wizards that help make over-arching decisions. E-board's goal is to guard the mission and direction, and ensure the group is equipped with the resources needed to fulfill its mission. They're also here to answer any questions!</alert>
 *Meets bi-weekly, evenings*
 
 * Keri Fullwood
@@ -72,7 +72,7 @@ Project team that has a goal of creating 20 podcasts.
 
 ## Events Group 🎉
 
-<alert>Events are the backbone of our group. They may be one-offs or evergreen events, educational or just for fun, but they bring us together and we value that. Below are current events that are being run by our members.</alert>
+<alert>Events are the backbone of our group. They may be one-offs or evergreen events, educational or just for fun, but they bring us together and we value that. Below are current events that are being run by Wizards.</alert>
 
 ### Dragon’s Den
 
