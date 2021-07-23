@@ -39,7 +39,7 @@ A project leader is just a person that has the desire to “make things happen�
 Feel free to write something in #suggestion-box to find people that may be interested in your project as well. If you have an idea but don’t currently have the bandwidth to start something, add it to our <list of ideas> and maybe someone else will be inspired to pick it up!
 
 **Next Steps**\
-Once you have your idea and potentially a project leader, message a member on E-Board about your proposal and to get your project on the <list of current projects>. This doc is our reference to reduce overlapping of projects but also so E-Board knows with whom to keep in touch.
+Once you have your idea and potentially a project leader, message a Wizard on E-Board about your proposal and to get your project on the <list of current projects>. This doc is our reference to reduce overlapping of projects but also so E-Board knows with whom to keep in touch.
 
 E-Board can also help you with resources you may need. Some examples may be: Zoom access, posting your event publicly on MeetUp, getting a banner made for your event, etc. They can also ask around for Wizards interested in joining your project if you’d prefer not to ask around yourself or if you’re having trouble reaching people.
 
@@ -57,7 +57,7 @@ This means there may also be some inter-project coordination, so please be mindf
 In contrast, Internal projects and events are much more hands-off. Feel free to experiment and try whatever your creativity allows. In fact, many External projects and events start out as Internal ones.
 
 How may I help with a current project/event?
-Check out our <list of current projects> and see if there are any that speak to you. If a project has a space open for a new team member, feel free to DM the project leader to inquire about helping out. If a project is full, consider starting a similar one and finding people to take part; oftentimes if you are interested in one, it means someone else is too!
+Check out our <list of current projects> and see if there are any that speak to you. If a project has a space open for a new Wizard, feel free to DM the project leader to inquire about helping out. If a project is full, consider starting a similar one and finding people to take part; oftentimes if you are interested in one, it means someone else is too!
 
 Another way to learn about projects in need of help is to keep an eye out for postings on #channel-name. Team leads may share openings there but E-Board may also post some quarterly.
 
@@ -90,9 +90,9 @@ In terms of deciding on what project or initiative you would like to focus on, U
 Here’s our current list of teams and volunteers but you are also free to create your own team or event if that is what you’re interested in doing.
 
 **How do I join a team?**\
-If you’d like to join a team please contact either a member of that team (ideally the lead) or a member of our Executive Board!
+If you’d like to join a team please contact either a Wizard on that team (ideally the lead) or a Wizard on our Executive Board!
 
-If you’re starting a new team, please contact a member of our Executive Board with a proposal of what you want to do, and they can guide you on how to do it. If you need ideas refer to this GOOGLE FORM SPREADSHEET
+If you’re starting a new team, please contact a Wizard on Executive Board with a proposal of what you want to do, and they can guide you on how to do it. If you need ideas refer to this GOOGLE FORM SPREADSHEET
 
 **How do I ‘off board’ when it’s time?**\
 If you ever need to duck out for whatever reason, please do not feel guilty at all! UXW is an ever-evolving group that is there to support the goals of our Wizards. Feel free to let either your team or any Wizard on the executive board “e-board” know and we will take care of it!
