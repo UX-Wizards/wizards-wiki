@@ -1,8 +1,8 @@
 ---
-title: Stay in touch with us
-description: "t"
+title: Calendars
+description: ""
 position: 1
-category: Calendars
+category: Stay Informed
 ---
 
 [UX Events Calendar](https://calendar.google.com/calendar/u/0?cid=dXh3aXphcmRzLmRlc2lnbkBnbWFpbC5jb20)
