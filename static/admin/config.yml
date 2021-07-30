@@ -2,7 +2,7 @@ backend:
   name: github
   repo: UX-Wizards/wizards-wiki
 
-media_folder: media_folder
+media_folder: "/"
 
 collections:
   - label: "Posts"
