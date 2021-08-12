@@ -3,7 +3,7 @@ title: Volunteer Openings
 position: 1
 category: Volunteer
 ---
-Looking to help out UX Wizards in some way? If you're don't have something yet in mind, take a look at the listings below!
+Looking to help out UX Wizards in some way? If you're don't have something yet in mind, take a look at the listings below or jump to one using the right sidebar 👉🏼
 
 Note: We're in the process of figuring out how best to share our open positions, so for now feel free to check out this Google Doc also! https://docs.google.com/document/d/1mUPJP_EwIhlEjrSYn_fjd0N77nsQZ66I5IdHeS-tyHQ/edit
 
