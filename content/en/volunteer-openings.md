@@ -16,7 +16,6 @@ We'd like to do another UX Chicken - basically a lighthearted event where we lit
 
 ### Event: UX Mixer Trivia
 ![tesst](/img/banner_trivia.png "trivia banner") 
-**Due Date:** Thursday, May 27 \
 **Looking for:** Trivia Question Maker, Presentation Slides Maker, and/or 2 Co-Hosts \
 **Contact:** Keri Fullwood
 
