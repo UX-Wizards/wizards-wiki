@@ -5,6 +5,8 @@ category: Volunteer
 ---
 Looking to help out UX Wizards in some way? If you're don't have something yet in mind, take a look at the listings below!
 
+Note: We're in the process of figuring out how best to share our open positions, so for now feel free to check out this Google Doc also! https://docs.google.com/document/d/1mUPJP_EwIhlEjrSYn_fjd0N77nsQZ66I5IdHeS-tyHQ/edit
+
 ### Event: UX Chicken
 
 **Looking for:** Co-host and/or Planner \
@@ -67,3 +69,5 @@ Please reach out to the designated person listed.
 Ask yourself: **What is something I've wanted to do but would be more enjoyable with others?** 
 
 For example, maybe you need help with interview practice and are interested in gathering others to join you. Or maybe you've always wanted to read a book but need the accountability of a book club. Maybe you just want to learn from others about their favorite UX techniques and would like to plan a themed discussion. If you want to do it, I'm sure someone else does too. Just let us know!
+
+![tesst](/img/image.png "uo")
