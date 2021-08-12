@@ -4,4 +4,7 @@ export default theme({
   docs: {
     primaryColor: "#E24F55",
   },
+  css: [
+    "./assets/main.css"
+  ]
 });
