@@ -4,7 +4,7 @@ position: 0
 category: Volunteer
 ---
 
-Hello and welcome to Leadership! Our volunteers lead our group, and for your patience, sweat and energy we thank you.
+Our volunteers lead our group, and for your patience, sweat and energy we thank you.
 
 We’re thrilled that you’re interested in doing more with us and are excited to have you as part of our team.
 
@@ -15,8 +15,6 @@ In the case you ever feel overwhelmed or burned out, please reach out to an E-Bo
 
 **Be Selfish and Selfless**\
 Try and find a project or team that has both a selfish aspect and a selfless aspect. That is, find a project that aligns with your personal goals but that would also benefit the larger group.
-
-This is the Volunteer Onboarding Guide Seiko Igi
 
 **What can I do?**\
 All Wizards are welcome to start a new project/event or they may join a current one if there is space.
