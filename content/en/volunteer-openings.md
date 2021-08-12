@@ -15,7 +15,7 @@ Note: We're in the process of figuring out how best to share our open positions,
 We'd like to do another UX Chicken - basically a lighthearted event where we literally get chicken and hang out together in-person or virtually (up to you) and maybe... watching a movie? chatting? Some kind of activity! We need some help picking out a movie or Zoom-friendly activity and figuring out logistics.
 
 ### Event: UX Mixer Trivia
-(/img/banner_trivia.png "trivia banner") 
+![tesst](/img/banner_trivia.png "trivia banner") 
 **Due Date:** Thursday, May 27 \
 **Looking for:** Trivia Question Maker, Presentation Slides Maker, and/or 2 Co-Hosts \
 **Contact:** Keri Fullwood
