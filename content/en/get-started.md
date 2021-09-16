@@ -20,7 +20,7 @@ Try and find a project or team that has both a selfish aspect and a selfless asp
 All Wizards are welcome to start a new project/event or they may join a current one if there is space.
 
 **Join an existing event!**\
-Any activity you see us doing was at one point the brainchild of a Wizard just like you! Take advantage of this amazing community and do the things you want to accomplish. Start your own cowork session, join a team to organize a UX talk, form a group to study relevant topics - the opportunities are endless.
+Any activity you see us doing was at one point the brainchild of a Wizard just like you! Take advantage of this amazing community and do the things you want to accomplish. Start your own co-work session, join a team to organize a UX talk, form a group to study relevant topics - the opportunities are endless.
 
 <Here is a list of current project initiatives Wizards are doing. >
 <Here is a list of ideas Wizards have asked for but no one is currently spearheading>
@@ -43,7 +43,7 @@ E-Board can also help you with resources you may need. Some examples may be: Zoo
 
 And that’s about it for starting your own thing!
 
-**What kinds of projects/events are there?**
+**What kinds of projects/events are there?**\
 Projects and events generally fall into two categories: those whose audience are existing Wizards in Slack (“Internal”) and those whose audience include non-Wizards (“External”).
 
 **External Projects**\
@@ -73,7 +73,7 @@ We are happy to take your help, even if that’s just an hour or two a month. Sp
 **If I join can I leave whenever?**\
 Absolutely! If you feel like you need to leave or pause your work with us at any time, please just let us know. Things come up and it’s never a bad time.
 
-**Can I be in more than one group?**
+**Can I be in more than one group?**\
 Absolutely! You’re free to move around and be in multiple groups as you wish!
 
 How should I convey my volunteer work in a resume or portfolio?
@@ -95,7 +95,7 @@ If you’re starting a new team, please contact a Wizard on Executive Board with
 **How do I ‘off board’ when it’s time?**\
 If you ever need to duck out for whatever reason, please do not feel guilty at all! UXW is an ever-evolving group that is there to support the goals of our Wizards. Feel free to let either your team or any Wizard on the executive board “e-board” know and we will take care of it!
 
-**How do I plan an event?**
+**How do I plan an event?**\
 If you’re interested in hosting an event, please feel free to reach out to a Wizard on eboard. We’ll help get you set up with Zoom, meetup logins and anything you might need.
 
 **Where can I find the UXW Bylaws?**\
