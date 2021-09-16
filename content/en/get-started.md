@@ -7,7 +7,7 @@ category: Volunteer
 Our volunteers lead our group, and for your patience, sweat and energy we thank you.
 
 We’re thrilled that you’re interested in doing more with us and are excited to have you as part of our team.
-![tesst](/img/banner outside.png "ux wizards") 
+![tesst](/img/group outside.png "ux wizards") 
 **We are all Volunteers**\
 The first rule to keep in mind is that everyone, including yourself, is a volunteer. As such, we ask that you only take on that which aligns with your personal goals and at a level that is sustainable.
 
