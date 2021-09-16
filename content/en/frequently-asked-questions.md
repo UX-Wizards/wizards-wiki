@@ -76,7 +76,7 @@ Totally okay! You do you. 😎 We just ask you let people know and follow up - b
 We recommend it! It's good to tell people in the #events channel
 
 ### Can I promote my UXW event online?
-Yes! It's your event so it is up to you. If it's a public event (may be posted on MeetUp)then we can also have our Content Design Team post it on our UXW socials if given enough notice. [View our advertising request form]
+Yes! It's your event so it is up to you. If it's a public event (may be posted on MeetUp) then we can also have our Content Design Team post it on our UXW socials if given enough notice. [View our advertising request form]
 
 ### Can I promote another UXW event online?
 If it is a public MeetUp event: Yes, everyone is welcome to join and take part in our events, even if they don't do UX.
