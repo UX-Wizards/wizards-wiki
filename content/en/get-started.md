@@ -59,7 +59,7 @@ Check out our <list of current projects> and see if there are any that speak to 
 
 Another way to learn about projects in need of help is to keep an eye out for postings on #channel-name. Team leads may share openings there but E-Board may also post some quarterly.
 
-I’m nervous to help out because I’m not an expert\
+**I’m nervous to help out because I’m not an expert**\
 Neither are we! Our community, like the design process, is all about iteration: We try, we learn, we try again. Our aim is to cultivate a community that is open to learning from each other, even as we ourselves are learning. All we ask is to be an eager learner open to constructive criticism and.
 
 **Don’t worry, we also need non-UX help!**\
