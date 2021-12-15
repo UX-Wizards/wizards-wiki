@@ -10,10 +10,11 @@ category: Volunteer
 <alert> The executive board or e-board is the group of Wizards that help make over-arching decisions. E-board's goal is to guard the mission and direction, and ensure the group is equipped with the resources needed to fulfill its mission. They're also here to answer any questions!</alert>
 *Meets bi-weekly, evenings*
 
-* Keri Fullwood
-* Laura Williams
-* Seiko Igi
+* Keri Fullwood*
 * Kaisen Lin
+* Max Blum
+* Seiko Igi
+* Sidney Rhoads
 
 ## Design Group 🎨
 
@@ -22,30 +23,21 @@ The design group is the collection of teams that create graphics or other conten
 
 ### Graphic Design Team
 
-Creates graphics, banners, and templates.
-*Meets every other Monday, 6:15 pm PT*
-
-* Seiko Igi * 
-* Osas Oyara 
+*Currently paused.* 
 
 ### Content Design Team
 
-Creates and posts content on our social media.
-*Meets every other Tuesday, 5:00pm PT*
-
-* Kadeem Morrison *
-* Bi Nguyen 
+*Currently paused.*
 
 ### Merch Design Team
 
 Creates designs for swag.
 *Meets every other week*
 
-* Joanne Arboleda * 
-* Seiko Igi 
-* Gabi Pangilinan 
+* Joanne Arboleda*
 * Laura Williams 
-* Keri Fullwood
+* Max Blum
+* Morgan Trueblood
 
 ### Web Team
 
@@ -53,7 +45,12 @@ Manages our websites or other web content.
 *Office Hours every Monday, 8pm PT*
 
 * Javier Garcia * 
-* Madison Brown
+* Ann Chung
+* Bi Nguyen
+* Keri Fullwood
+* Laura Williams
+* Max Blum
+* Seiko Igi
 
 ## Production 🎥
 
@@ -65,10 +62,13 @@ Project team that has a goal of creating 20 podcasts.
 *Meets Fridays, 5pm PT*
 
 * Keri Fullwood * 
+* Andre Lindo
+* Ann Chung
+* Celeste Castanon
 * Chidinma Kalu 
 * Morgan Trueblood 
+* Richie Park
 * Sidney Rhoads 
-* Andre Lindo
 
 ## Events Group 🎉
 
@@ -114,21 +114,17 @@ A fun get-together whether just mingling, chatting, trivia, or games.
 * Laura Williams
 * Sidney Rhoads
 
-### Design Systems Roundtable
+### Interview Practice Sessions
 
-Design Systems Deep Dive
+Peer-to-peer practice interviews
 
-* Kaisen Lin *
-* Keri Fullwood
+* Daniel Mason *
 
 ### UX Talks
 
 Handles the organization and running of speaking events.
 
-* Seiko Igi * 
-* Laura Williams 
-* Andre Lindo 
-* Chaela Cristobal
+*tbd, previously Andre/Keri*
 
 ### Let's Art Together!
 
@@ -153,6 +149,12 @@ A group for anyone that recently got a job and would like help navigating strugg
 A group for anyone searching for a job and would like to network and vent about related struggles.
 
 * Annie Bratko *
+
+### In-person Co-work
+
+A small, intimate co-working session at an undisclosed location.
+
+* Tim Evans *
 
 ### Remote UX Challenge
 
@@ -214,7 +216,7 @@ Manages permissions for account login credentials.
 #### Notes
 
 <alert>
-See our list of \\[retired teams and projects](https://docs.google.com/spreadsheets/d/1Nlo4dBTeWcnb-L81X8BdXUE1BhqcXoFNCeAwLY0HMAY/edit?usp=sharing) \\\[Google Sheet].
+See our list of \\\[retired teams and projects](https://docs.google.com/spreadsheets/d/1Nlo4dBTeWcnb-L81X8BdXUE1BhqcXoFNCeAwLY0HMAY/edit?usp=sharing) \\\\[Google Sheet].
 </alert>
 \
 Last updated Jul 22, 2021 by Keri F.
