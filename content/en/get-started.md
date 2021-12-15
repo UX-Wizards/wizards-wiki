@@ -67,7 +67,7 @@ We always need help that’s non-domain specific: event planning, logistics.
 You can learn a lot just by being around
 It’s worthwhile because when you’re involved you start building more bonds.
 
-What is the time commitment for volunteering?\
+**What is the time commitment for volunteering?**\
 We are happy to take your help, even if that’s just an hour or two a month. Speak to your team lead about time commitment.
 
 **If I join can I leave whenever?**\
