@@ -18,7 +18,7 @@ category: Volunteer
 
 ### Web Team
 
-Manages our websites or other web content.
+Manages our websites or other web content. <br>
 *Meets Wednesdays, 5:00 - 6:00 pm PT*
 
 * Javier Garcia * 
