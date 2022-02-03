@@ -47,28 +47,56 @@ Project team that has a goal of creating 20 podcasts.<br>
 * Richie Park
 * Sidney Rhoads 
 
-Events Group 🎉
+## Events Group 🎉
 
 <alert>Events are the backbone of our group. They may be one-offs or evergreen events, educational or just for fun, but they bring us together and we value that. Below are current events that are being run by Wizards.</alert>
 
-### Co-work & Coffee (Online)
 
-Aka UX Hangout Chat, a weekly afternoon get-together to discuss things and potentially attempt to get work done. <br>
-*This is an un-hosted event, but event runs every Tuesday, 1-3pm PT* 
 
 ### Book Club
 
 Organizes regular discussion meetings for a book to read together.
 
 * Maegan Pisman (first UXR / UX team of one)
-*
 
-### Weekly UI
+### Co-work & Coffee (Online)
 
-Practice your UI skills and bulk up your portfolio with weekly prompts.
-Held in the #weekly-ui Slack channel
+Aka UX Hangout Chat, a weekly afternoon get-together to discuss things and potentially attempt to get work done. <br>
+*This is an un-hosted event, but event runs every Tuesday, 1-3pm PT* 
 
-* Elsa Amri
+### Interview Practice Sessions
+
+Peer-to-peer practice interviews
+
+* Daniel Mason *
+
+### In-person Co-work
+
+A small, intimate co-working session at an undisclosed location.
+
+* Tim Evans *
+
+### Job Seeker Support
+
+A group for anyone searching for a job and would like to network and vent about related struggles.
+
+* Annie Bratko *
+
+
+
+### New Hire Support
+
+A group for anyone that recently got a job and would like help navigating struggles.
+
+* Jess Chen *
+
+### Remote UX Challenge
+
+* Keri Fullwood*
+* Max Blum
+* Sidney Rhoads
+
+
 
 ### UX Mixer
 
@@ -78,35 +106,21 @@ A fun get-together whether just mingling, chatting, trivia, or games.
 * Keri Fullwood *
 * Sidney Rhoads
 
-### Interview Practice Sessions
+### UI Lighting Jam 
 
-Peer-to-peer practice interviews
+Hone your UI skills by cranking out a lightning-fast 30 minute version of this week's #weekly-ui prompt.\
+*Event runs every Tuesday, 10:30 - 11:00 am*
 
-* Daniel Mason *
+* Max Blum*
 
-### New Hire Support
 
-A group for anyone that recently got a job and would like help navigating struggles.
 
-* Jess Chen *
+### Weekly UI
 
-### Job Seeker Support
+Practice your UI skills and bulk up your portfolio with weekly prompts.
+Held in the #weekly-ui Slack channel
 
-A group for anyone searching for a job and would like to network and vent about related struggles.
-
-* Annie Bratko *
-
-### In-person Co-work
-
-A small, intimate co-working session at an undisclosed location.
-
-* Tim Evans *
-
-### Remote UX Challenge
-
-* Keri Fullwood*
-* Max Blum
-* Sidney Rhoads
+* Elsa Amri
 
 ### Wizards YearBook
 
@@ -114,6 +128,8 @@ A small, intimate co-working session at an undisclosed location.
 * Ann Chung
 * Keri Fullwood
 * Max Blum
+
+
 
 ## Operations Group 🔧
 
