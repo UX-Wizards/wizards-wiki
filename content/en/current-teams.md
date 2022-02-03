@@ -137,6 +137,8 @@ Handles finances and approves purchase requests. Also works with our Sponsors.
 * Kaisen Lin 
 * Laura Williams 
 * Seiko Igi
+* Sidney Rhoads
+* Max Blum
 
 ### Slack/Discord
 
