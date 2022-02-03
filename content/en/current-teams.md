@@ -56,8 +56,6 @@ Events Group 🎉
 Aka UX Hangout Chat, a weekly afternoon get-together to discuss things and potentially attempt to get work done.
 *This is an un-hosted event, but event runs every Tuesday, 1-3pm PT*
 
-
-
 ### Book Club
 
 Organizes regular discussion meetings for a book to read together.
