@@ -19,7 +19,7 @@ category: Volunteer
 ### Web Team
 
 Manages our websites or other web content. <br>
-*Meets Wednesdays, 5:00 - 6:00 pm PT*
+*Meets Wednesdays, 5:00-6:00 pm PT*
 
 * Javier Garcia * 
 * Ann Chung
@@ -36,7 +36,7 @@ Manages our websites or other web content. <br>
 ### Podcast Team
 
 Project team that has a goal of creating 20 podcasts.<br>
-*Meets Tuesdays, 5:30 - 6:00 pm PT*
+*Meets Tuesdays, 5:30-6:00 pm PT*
 
 * Keri Fullwood * 
 * Andre Lindo
@@ -53,14 +53,15 @@ Events Group 🎉
 
 ### Co-work & Coffee (Online)
 
-Aka UX Hangout Chat, a weekly afternoon get-together to discuss things and potentially attempt to get work done.
-*This is an un-hosted event, but event runs every Tuesday, 1-3pm PT*
+Aka UX Hangout Chat, a weekly afternoon get-together to discuss things and potentially attempt to get work done. <br>
+*This is an un-hosted event, but event runs every Tuesday, 1-3pm PT* 
 
 ### Book Club
 
 Organizes regular discussion meetings for a book to read together.
 
 * Maegan Pisman (first UXR / UX team of one)
+*
 
 ### Weekly UI
 
