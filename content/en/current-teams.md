@@ -47,7 +47,6 @@ Project team that has a goal of creating 20 podcasts.
 * Richie Park
 * Sidney Rhoads 
 
-## \
 Events Group 🎉
 
 <alert>Events are the backbone of our group. They may be one-offs or evergreen events, educational or just for fun, but they bring us together and we value that. Below are current events that are being run by Wizards.</alert>
@@ -57,8 +56,9 @@ Events Group 🎉
 Aka UX Hangout Chat, a weekly afternoon get-together to discuss things and potentially attempt to get work done.
 *This is an un-hosted event, but event runs every Tuesday, 1-3pm PT*
 
-### \
-Book Club
+
+
+### Book Club
 
 Organizes regular discussion meetings for a book to read together.
 
@@ -70,8 +70,6 @@ Practice your UI skills and bulk up your portfolio with weekly prompts.
 Held in the #weekly-ui Slack channel
 
 * Elsa Amri
-
-
 
 ### UX Mixer
 
