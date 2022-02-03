@@ -29,6 +29,13 @@ Manages our websites or other web content. <br>
 * Max Blum
 * Seiko Igi
 
+### Wizards YearBook
+
+* Archana*
+* Ann Chung
+* Keri Fullwood
+* Max Blum
+
 ## Production 🎥
 
 <alert>Production includes projects that create content that may not be design-related or graphic in nature.</alert>
@@ -50,8 +57,6 @@ Project team that has a goal of creating 20 podcasts.<br>
 ## Events Group 🎉
 
 <alert>Events are the backbone of our group. They may be one-offs or evergreen events, educational or just for fun, but they bring us together and we value that. Below are current events that are being run by Wizards.</alert>
-
-
 
 ### Book Club
 
@@ -82,8 +87,6 @@ A group for anyone searching for a job and would like to network and vent about 
 
 * Annie Bratko *
 
-
-
 ### New Hire Support
 
 A group for anyone that recently got a job and would like help navigating struggles.
@@ -96,8 +99,6 @@ A group for anyone that recently got a job and would like help navigating strugg
 * Max Blum
 * Sidney Rhoads
 
-
-
 ### UX Mixer
 
 A fun get-together whether just mingling, chatting, trivia, or games.
@@ -106,14 +107,12 @@ A fun get-together whether just mingling, chatting, trivia, or games.
 * Keri Fullwood *
 * Sidney Rhoads
 
-### UI Lighting Jam 
+### UI Lighting Jam
 
 Hone your UI skills by cranking out a lightning-fast 30 minute version of this week's #weekly-ui prompt.\
 *Event runs every Tuesday, 10:30 - 11:00 am*
 
 * Max Blum*
-
-
 
 ### Weekly UI
 
@@ -121,15 +120,6 @@ Practice your UI skills and bulk up your portfolio with weekly prompts.
 Held in the #weekly-ui Slack channel
 
 * Elsa Amri
-
-### Wizards YearBook
-
-* Archana*
-* Ann Chung
-* Keri Fullwood
-* Max Blum
-
-
 
 ## Operations Group 🔧
 
