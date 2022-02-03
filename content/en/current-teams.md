@@ -8,7 +8,7 @@ category: Volunteer
 ## Executive Board ⚙️
 
 <alert> The executive board or e-board is the group of Wizards that help make over-arching decisions. E-board's goal is to guard the mission and direction, and ensure the group is equipped with the resources needed to fulfill its mission. They're also here to answer any questions!</alert>
-*Meets bi-weekly, evenings*
+*Meets bi-weekly Wed, 5:30 - 6:30 pm PT*
 
 * Keri Fullwood*
 * Kaisen Lin
@@ -16,33 +16,10 @@ category: Volunteer
 * Seiko Igi
 * Sidney Rhoads
 
-## Design Group 🎨
-
-<alert>
-The design group is the collection of teams that create graphics or other content that may be used publicly to represent UX Wizards.</alert>
-
-### Graphic Design Team
-
-*Currently paused.* 
-
-### Content Design Team
-
-*Currently paused.*
-
-### Merch Design Team
-
-Creates designs for swag.
-*Meets every other week*
-
-* Joanne Arboleda*
-* Laura Williams 
-* Max Blum
-* Morgan Trueblood
-
 ### Web Team
 
 Manages our websites or other web content.
-*Office Hours every Monday, 8pm PT*
+*Meets Wednesdays, 5:00 - 6:00 pm PT*
 
 * Javier Garcia * 
 * Ann Chung
@@ -59,7 +36,7 @@ Manages our websites or other web content.
 ### Podcast Team
 
 Project team that has a goal of creating 20 podcasts.
-*Meets Fridays, 5pm PT*
+*Meets Tuesdays, 5:30 - 6:00 pm PT*
 
 * Keri Fullwood * 
 * Andre Lindo
@@ -70,33 +47,22 @@ Project team that has a goal of creating 20 podcasts.
 * Richie Park
 * Sidney Rhoads 
 
-## Events Group 🎉
+## \
+Events Group 🎉
 
 <alert>Events are the backbone of our group. They may be one-offs or evergreen events, educational or just for fun, but they bring us together and we value that. Below are current events that are being run by Wizards.</alert>
 
-### Dragon’s Den
-
-Helps new hosts get set up with their event.
-
-* Kaisen Lin
-
-### Co-work & Coffee
+### Co-work & Coffee (Online)
 
 Aka UX Hangout Chat, a weekly afternoon get-together to discuss things and potentially attempt to get work done.
 *This is an un-hosted event, but event runs every Tuesday, 1-3pm PT*
 
-### Yoga
-
-Start your mornings with vigor together!
-*Event runs Monday & Wednesday, 7:30am PT*
-
-* Chidinma Kalu 
-
-### Book Club
+### \
+Book Club
 
 Organizes regular discussion meetings for a book to read together.
 
-* *Looking for someone to run this event*
+* Maegan Pisman (first UXR / UX team of one)
 
 ### Weekly UI
 
@@ -105,13 +71,14 @@ Held in the #weekly-ui Slack channel
 
 * Elsa Amri
 
+
+
 ### UX Mixer
 
 A fun get-together whether just mingling, chatting, trivia, or games.
 *Event runs monthly, check calendar*
 
 * Keri Fullwood *
-* Laura Williams
 * Sidney Rhoads
 
 ### Interview Practice Sessions
@@ -119,24 +86,6 @@ A fun get-together whether just mingling, chatting, trivia, or games.
 Peer-to-peer practice interviews
 
 * Daniel Mason *
-
-### UX Talks
-
-Handles the organization and running of speaking events.
-
-*tbd, previously Andre/Keri*
-
-### Let's Art Together!
-
-An un-hosted event on the Discord where anyone can come to work on a creative project. *Event runs weekly on Sundays, 1pm PT.*
-
-* Laura *
-
-### Let's FigJam!
-
-A collaborative exploration with Figma's FigJam.
-
-* Rae *
 
 ### New Hire Support
 
@@ -158,17 +107,20 @@ A small, intimate co-working session at an undisclosed location.
 
 ### Remote UX Challenge
 
-* *Looking for volunteers to organize next RUXC*
+* Keri Fullwood*
+* Max Blum
+* Sidney Rhoads
+
+### Wizards YearBook
+
+* Archana*
+* Ann Chung
+* Keri Fullwood
+* Max Blum
 
 ## Operations Group 🔧
 
 <alert>Operations and group logistics are handled by these teams.</alert>
-
-### Non-profit Exploration
-
-Researches what it takes to become a non-profit organization
-
-* Keri Fullwood
 
 ### Finance Council
 
@@ -177,7 +129,6 @@ Handles finances and approves purchase requests. Also works with our Sponsors.
 * Keri Fullwood * 
 * Kaisen Lin 
 * Laura Williams 
-* Yigit Onay 
 * Seiko Igi
 
 ### Slack/Discord
@@ -185,8 +136,6 @@ Handles finances and approves purchase requests. Also works with our Sponsors.
 Manages and moderates web communication tools for the group.
 
 * Laura Williams *
-* King Ehiogu
-* *Needs more volunteers*
 
 ### MeetUp
 
@@ -202,9 +151,7 @@ Manages MeetUp.com permissions
 Works on writing content for the group's policies.
 
 * Laura Williams 
-* Yigit Onay 
 * Keri Fullwood 
-* King Ehiogu
 
 ### Password Management
 
@@ -215,8 +162,4 @@ Manages permissions for account login credentials.
 
 #### Notes
 
-<alert>
-See our list of \\\[retired teams and projects](https://docs.google.com/spreadsheets/d/1Nlo4dBTeWcnb-L81X8BdXUE1BhqcXoFNCeAwLY0HMAY/edit?usp=sharing) \\\\[Google Sheet].
-</alert>
-\
-Last updated Jul 22, 2021 by Keri F.
+Last updated Feb 2, 2022 by Seiko
