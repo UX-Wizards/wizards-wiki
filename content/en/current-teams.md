@@ -35,7 +35,7 @@ Manages our websites or other web content. <br>
 
 ### Podcast Team
 
-Project team that has a goal of creating 20 podcasts.
+Project team that has a goal of creating 20 podcasts.<br>
 *Meets Tuesdays, 5:30 - 6:00 pm PT*
 
 * Keri Fullwood * 
