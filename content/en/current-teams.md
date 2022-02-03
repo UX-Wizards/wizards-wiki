@@ -16,6 +16,10 @@ category: Volunteer
 * Seiko Igi
 * Sidney Rhoads
 
+## Design Group 🎨
+
+<alert>The design group is the collection of teams that create graphics or other content that may be used publicly to represent UX Wizards.</alert>
+
 ### Web Team
 
 Manages our websites or other web content. <br>
