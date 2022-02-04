@@ -35,7 +35,7 @@ Manages our websites or other web content. <br>
 
 ### Wizards YearBook
 
-* Archana*
+* Archana Mudiam*
 * Ann Chung
 * Keri Fullwood
 * Max Blum
