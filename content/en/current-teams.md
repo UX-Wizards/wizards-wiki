@@ -11,9 +11,6 @@ category: Volunteer
 *Meets bi-weekly Wed, 5:30 - 6:30 pm PT*
 
 * Keri Fullwood*
-* Kaisen Lin
-* Max Blum
-* Seiko Igi
 * Sidney Rhoads
 
 ## Design Group 🎨
@@ -26,19 +23,14 @@ Manages our websites or other web content. <br>
 *Meets Wednesdays, 5:00-6:00 pm PT*
 
 * Javier Garcia * 
-* Ann Chung
 * Bi Nguyen
-* Keri Fullwood
 * Laura Williams
-* Max Blum
-* Seiko Igi
 
 ### Wizards YearBook
 
-* Archana Mudiam*
+* Max Blum*
 * Ann Chung
-* Keri Fullwood
-* Max Blum
+* Archana Mudiam
 
 ## Production 🎥
 
@@ -49,14 +41,12 @@ Manages our websites or other web content. <br>
 Project team that has a goal of creating 20 podcasts.<br>
 *Meets Tuesdays, 5:30-6:00 pm PT*
 
-* Keri Fullwood * 
+* Sidney Rhoads * 
 * Andre Lindo
 * Ann Chung
 * Celeste Castanon
-* Chidinma Kalu 
-* Morgan Trueblood 
+* Keri Fullwood
 * Richie Park
-* Sidney Rhoads 
 
 ## Events Group 🎉
 
@@ -67,17 +57,12 @@ Project team that has a goal of creating 20 podcasts.<br>
 Organizes regular discussion meetings for a book to read together.
 
 * Maegan Pisman (first UXR / UX team of one)
+* John Brewer (The other other book club)
 
 ### Co-work & Coffee (Online)
 
 Aka UX Hangout Chat, a weekly afternoon get-together to discuss things and potentially attempt to get work done. <br>
 *This is an un-hosted event, but event runs every Tuesday, 1-3pm PT* 
-
-### Interview Practice Sessions
-
-Peer-to-peer practice interviews
-
-* Daniel Mason *
 
 ### In-person Co-work
 
@@ -90,12 +75,6 @@ A small, intimate co-working session at an undisclosed location.
 A group for anyone searching for a job and would like to network and vent about related struggles.
 
 * Annie Bratko *
-
-### New Hire Support
-
-A group for anyone that recently got a job and would like help navigating struggles.
-
-* Jess Chen *
 
 ### Remote UX Challenge
 
@@ -118,6 +97,13 @@ Hone your UI skills by cranking out a lightning-fast 30 minute version of this w
 
 * Max Blum*
 
+### Portfolio Accountability Group
+
+Work with your UX Wizards accountabili-buddies to hone and perfect your portfolio, 1% at a time.\
+*Event runs every Friday, 3:00 - 4:00 pm*
+
+* Seiko Igi*
+
 ### Weekly UI
 
 Practice your UI skills and bulk up your portfolio with weekly prompts.
@@ -138,13 +124,18 @@ Handles finances and approves purchase requests. Also works with our Sponsors.
 * Laura Williams 
 * Seiko Igi
 * Sidney Rhoads
-* Max Blum
+
+### Help Desk
+
+Got questions? Find answers.
+
+* Kaisen Lin *
 
 ### Slack/Discord
 
 Manages and moderates web communication tools for the group.
 
-* Laura Williams *
+* Keri Fullwood *
 
 ### MeetUp
 
