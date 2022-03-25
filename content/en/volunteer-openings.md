@@ -3,11 +3,54 @@ title: Volunteer Openings
 position: 1
 category: Volunteer
 ---
-Looking to help out UX Wizards in some way? If you're don't have something yet in mind, take a look at the listings below or jump to one using the right sidebar 👉🏼
+Looking to help out UX Wizards in some way? If you don't have something yet in mind, take a look at the listings below or jump to one using the right sidebar 👉🏼
 
 Note: We're in the process of figuring out how best to share our open positions, so for now feel free to check out this Google Doc also! https://docs.google.com/document/d/1mUPJP_EwIhlEjrSYn_fjd0N77nsQZ66I5IdHeS-tyHQ/edit
 
+### Webflow Designer:
+
+**Looking for:** 1-2 people\
+**Contact:** Keri F.
+
+The Hackathon team is looking for a landing page, this is a longer-term project as we’re still in the planning stages.
+
+### Writers/Researchers for a Blog
+
+**Contact:** Keri F.
+
+I want to create a small series of blog articles that compare tools that are around and other similar things that are useful for our trade. Ie: Figma/Photoshop/other tools in terms of prototyping ability, ease of use, cost etc. 
+
+### Designers (Junior!)
+
+**Looking for:** 1-2 jr designers\
+**Contact:** Keri F.
+
+This is a project for jr designers who want to get their hands dirty learning Figma or Sketch. To start with we’ll just be making a weekly post (literally a ‘menu’ this week’s events), but over time we templatize this and get experience with components and design systems. The output will be one piece per week, based on our existing calendar.  You’ll receive guidance! 
+
+### Speaking Events Coordinator
+
+**Looking for:** 1-2 people
+**Contact:** Keri F.
+
+We want to have some talks, and it would be super useful to have a point person for this.  Talks that we have in the ‘hopper’ - Josh Gold/Linkedin Talk, 
+
+### Hackathon Planning 2022
+
+**Looking for:** 3-6 more people
+(Currently Keri, Sidney, Max)
+**Contact:** Keri or Sidney
+Want to help organise our next remote ux design challenge? We’ve run 5 of these in the past, they’ve always been really popular and fun with wizards and typically ‘sell out’ within an hour of being announced. For this project, we’re looking to see if we can streamline our event and bump it up from a 25 person event to potentially a 60 person event, making it our largest hackathon yet!
+We’re currently meeting every other Friday at 4:30pm (flexible)
+
+### Volunteer Archivist/Yearbook Team Member (New!)
+Be on the yearbook team, creating a yearbook to celebrate our upcoming 4th birthday! We currently have 3 people, and we’d like two more!
+**Looking for:** 1-2 more people (currently Archana, Ann and Max)
+**Contact:** Keri, Ann, Archana or Max
+
+We’re currently meeting every other week
+
 ### Event: UX Chicken
+
 ![tesst](/img/banner_uxchicken.png "ux chicken banner") 
 **Looking for:** Co-host and/or Planner \
 **Contact:** Keri, Laura, or Kaisen
@@ -15,6 +58,7 @@ Note: We're in the process of figuring out how best to share our open positions,
 We'd like to do another UX Chicken - basically a lighthearted event where we literally get chicken and hang out together in-person or virtually (up to you) and maybe... watching a movie? chatting? Some kind of activity! We need some help picking out a movie or Zoom-friendly activity and figuring out logistics.
 
 ### Event: UX Mixer Trivia
+
 ![tesst](/img/banner_trivia.png "trivia banner") 
 **Looking for:** Trivia Question Maker, Presentation Slides Maker, and/or 2 Co-Hosts \
 **Contact:** Keri Fullwood
@@ -69,4 +113,4 @@ Ask yourself: **What is something I've wanted to do but would be more enjoyable 
 
 For example, maybe you need help with interview practice and are interested in gathering others to join you. Or maybe you've always wanted to read a book but need the accountability of a book club. Maybe you just want to learn from others about their favorite UX techniques and would like to plan a themed discussion. If you want to do it, I'm sure someone else does too. Just let us know!
 
-![tesst](/img/image.png "uo") 
+![tesst](/img/image.png "uo")
