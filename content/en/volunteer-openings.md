@@ -3,7 +3,7 @@ title: Volunteer Openings
 position: 1
 category: Volunteer
 ---
-Looking to help out UX Wizards in some way? If you don't have something yet in mind, take a look at the listings below or jump to one using the right sidebar 👉🏼
+Looking to help out UX Wizards in some way? If you don't have something in mind, take a look at the listings below or jump to one using the right sidebar 👉🏼
 
 Note: We're in the process of figuring out how best to share our open positions, so for now feel free to check out this Google Doc also! https://docs.google.com/document/d/1mUPJP_EwIhlEjrSYn_fjd0N77nsQZ66I5IdHeS-tyHQ/edit
 
@@ -18,34 +18,37 @@ The Hackathon team is looking for a landing page, this is a longer-term project 
 
 **Contact:** Keri F.
 
-I want to create a small series of blog articles that compare tools that are around and other similar things that are useful for our trade. Ie: Figma/Photoshop/other tools in terms of prototyping ability, ease of use, cost etc. 
+I want to create a small series of blog articles that compare tools that are around and other similar things that are useful for our trade. I.e. Figma/Photoshop/other tools in terms of prototyping ability, ease of use, cost etc. 
 
 ### Designers (Junior!)
 
 **Looking for:** 1-2 jr designers\
 **Contact:** Keri F.
 
-This is a project for jr designers who want to get their hands dirty learning Figma or Sketch. To start with we’ll just be making a weekly post (literally a ‘menu’ this week’s events), but over time we templatize this and get experience with components and design systems. The output will be one piece per week, based on our existing calendar.  You’ll receive guidance! 
+This is a project for ✨jr designers✨ who want to get their hands dirty learning Figma or Sketch. To start, we’ll be making a weekly post (literally a ‘menu’ of this week’s events), but over time we will templatize this and get experience with components and design systems. The output will be one piece per week, based on our existing calendar.  You’ll receive guidance! 
 
 ### Speaking Events Coordinator
 
-**Looking for:** 1-2 people
+**Looking for:** 1-2 people\
 **Contact:** Keri F.
 
-We want to have some talks, and it would be super useful to have a point person for this.  Talks that we have in the ‘hopper’ - Josh Gold/Linkedin Talk, 
+We want to have some talks, and it would be super useful to have a point person for this.  Talks that we have in the ‘hopper’ - Josh Gold/Linkedin Talk
 
 ### Hackathon Planning 2022
 
-**Looking for:** 3-6 more people
-(Currently Keri, Sidney, Max)
+**Looking for:** 3-6 more people (Currently Keri, Sidney, Max)\
 **Contact:** Keri or Sidney
-Want to help organise our next remote ux design challenge? We’ve run 5 of these in the past, they’ve always been really popular and fun with wizards and typically ‘sell out’ within an hour of being announced. For this project, we’re looking to see if we can streamline our event and bump it up from a 25 person event to potentially a 60 person event, making it our largest hackathon yet!
-We’re currently meeting every other Friday at 4:30pm (flexible)
+
+Want to help organise our next remote ux design challenge? We’ve run 5 of these in the past, they typically ‘sell out’ within an hour of being announced. For this project, we’re trying to streamline our event and bump it up from a 25-person event to potentially a 60-person event, making it our largest hackathon yet!
+
+We’re currently meeting every other Friday at 4:30pm
 
 ### Volunteer Archivist/Yearbook Team Member (New!)
-Be on the yearbook team, creating a yearbook to celebrate our upcoming 4th birthday! We currently have 3 people, and we’d like two more!
-**Looking for:** 1-2 more people (currently Archana, Ann and Max)
+
+**Looking for:** 1-2 more people (currently Archana, Ann and Max)\
 **Contact:** Keri, Ann, Archana or Max
+
+Be on the yearbook team, creating a yearbook to celebrate our upcoming 4th birthday! We currently have 3 people, and we’d like two more!
 
 We’re currently meeting every other week
 
@@ -70,7 +73,7 @@ Our next mixer is a trivia night and we need help coming up with 12 questions / 
 **Looking for:** 1-2 people \
 **Contact:** Laura Williams
 
-Need someone to add fun emotes to our Slack! I’d give you admin privileges and you can go at it. Would be discussing if we need to drop any or update some.
+Need someone to add fun emotes to our Slack! I’d give you admin privileges, and you can go at it. Would be discussing if we need to drop any or update some.
 
 ### Event: Book Club
 
